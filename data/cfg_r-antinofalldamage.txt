@@ -1,0 +1,9 @@
+{
+  "CheckAllPlayersOnJoin":true,
+  "SendDetectionsToAdmins":true,
+  "TimerToCheckForFallDamage":10,
+  "BroadcastBan":true,
+  "NumberOfDetectionsBeforeBan":5,
+  "AllowAutoBan":true,
+  "chatName":"Anti-Flyhack"
+}

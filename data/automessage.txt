@@ -1,0 +1,1 @@
+{"SendMessagesInRandomOrder":true,"MessageDelay":600,"MessageList":[["Server Copyright",["[color#00FF00]☢  Need help? Get a admin to help you with /admin"],"LastMessageID":0,"ChatName":"[SERVER MESSAGE]","SendNotice":false,"SendAllChat":true}

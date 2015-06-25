@@ -1,0 +1,7 @@
+{
+  "ShowMyDamageAdminOnly":true,
+  "ShowDamageAdminOnly":false,
+  "ShowDamageAnimalsAdminOnly":false,
+  "ViewAnimalTypes":true,
+  "ViewNickNames":true
+}

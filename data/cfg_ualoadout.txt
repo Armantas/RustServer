@@ -1,0 +1,42 @@
+{
+  "LoadOut":{
+    "Team1Loadout":{
+      "Belt":{
+        "amount":[1,1,1,1,5,5],
+        "item":["MP5A4","Shotgun","M4","Large Medkit","Bandage","Granola Bar"]
+      },
+      "Misc":{
+        "amount":[5,1],
+        "item":["Flare","Rock"]
+      },
+      "WepAttachments":{
+        "amount":[1,1,1,1],
+        "item":["Flashlight Mod","Laser Sight","Holo sight","Silencer"]
+      },
+      "Armor":["Leather Boots","Leather Pants","Leather Vest","Leather Helmet"],
+      "Ammo":{
+        "amount":[125,36,125],
+        "item":["9mm Ammo","Shotgun Shells","556 Ammo"]
+      }
+    },
+    "Team2Loadout":{
+      "Belt":{
+        "amount":[1,1,1,1,5,5],
+        "item":["MP5A4","Shotgun","M4","Large Medkit","Bandage","Granola Bar"]
+      },
+      "Misc":{
+        "amount":[5,1],
+        "item":["Flare","Rock"]
+      },
+      "WepAttachments":{
+        "amount":[1,1,1,1],
+        "item":["Flashlight Mod","Laser Sight","Holo sight","Silencer"]
+      },
+      "Armor":["Kevlar Boots","Kevlar Pants","Rad Suit Vest","Rad Suit Helmet"],
+      "Ammo":{
+        "amount":[125,36,125],
+        "item":["9mm Ammo","Shotgun Shells","556 Ammo"]
+      }
+    }
+  }
+}

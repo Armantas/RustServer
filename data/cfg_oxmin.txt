@@ -1,0 +1,9 @@
+{
+  "showconnectedmessage":false,
+  "helptext":["Welcome to the server!","This server is powered by the Oxide Modding API for Rust.","Use /who to see how many players are online."],
+  "reservedslots":5,
+  "welcomenotice":"Welcome to the server %s! Type /help, /esshelp for a list of commands.",
+  "showwelcomenotice":true,
+  "chatname":"Rust public",
+  "showdisconnectedmessage":false
+}

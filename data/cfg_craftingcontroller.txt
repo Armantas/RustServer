@@ -1,0 +1,24 @@
+{
+"BlockedCrafting": {
+
+},
+
+"BlockedBlueprints": {
+
+"Bolt Action Rifle Blueprint": true,
+"Explosive Charge Blueprint": true,
+"F1 Grenade Blueprint": true,
+"M4 Blueprint": true
+
+},
+
+"BlockedResearching": {
+
+"Paper": true
+
+},
+
+"blockblueprintsmessage": "This blueprint has been disabled.",
+"blockresearchmessage": "Researching this item has been blocked",
+"blockcraftingmessage": "Crafting this item has been blocked."
+}

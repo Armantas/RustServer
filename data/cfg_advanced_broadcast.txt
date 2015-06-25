@@ -1,0 +1,31 @@
+{
+  "delay":600,
+  "chatname":"message",
+  "messages":[{
+      "chatname":"Cheating will give you Ban.",
+      "message":"Check out our help!"
+    },{
+      "chatname":"News",
+      "message":"[color#00FF00]☢Check out our help!"
+    },["You can set home typing /sethome"],{
+      "channel":"Notice",
+      "message":"Respect rules and play fair!"
+    },{
+      "channel":"Inventory",
+      "message":"Respect rules and play fair!"
+    },"Respect rules and play fair!"],
+  "flags":[],
+  "shortcuts":{
+    "chat":":",
+    "notice":"!"
+  },
+  "command":"broadcast",
+  "channel":"chat",
+  "commands":{
+    "reload":"reload",
+    "notice":"notice",
+    "inventory":"inv",
+    "chat":"chat",
+    "push":"push"
+  }
+}

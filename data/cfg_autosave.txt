@@ -1,0 +1,13 @@
+{
+  "Settings":{
+    "ChatName":"Server",
+    "HelpChatName":"Help",
+    "Broadcast":"true",
+    "Time":"3600"
+  },
+  "Messages":{
+    "Saved":"Server world and player data saved!",
+    "HelpText":"Use /save to save the server world and player data",
+    "NoPermission":"You do not have permission to use this command!"
+  }
+}

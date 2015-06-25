@@ -1,0 +1,8 @@
+{
+  "DecayTime":4838400,
+  "PublicDecayStatus":true,
+  "CheckForUpdates":true,
+  "DecayOff":false,
+  "CheckTickRate":true,
+  "ConfigVersion":"0.5"
+}

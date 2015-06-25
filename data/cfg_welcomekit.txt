@@ -1,0 +1,7 @@
+{
+  "plugin_options":{
+    "enable_playerkit":false,
+    "enable_adminkit":false,
+    "enable_vipkit":false
+  }
+}

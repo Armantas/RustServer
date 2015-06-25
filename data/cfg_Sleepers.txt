@@ -1,0 +1,7 @@
+{
+  "inCombatTime":60,
+  "inCombatKill":false,
+  "sleeperCombatTime":300,
+  "configVersion":"1.1.0",
+  "sleeperTime":60
+}

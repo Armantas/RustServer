@@ -1,0 +1,13 @@
+{
+  "Settings":{
+    "ChatName":"Server",
+    "ChatCommand":"reload",
+    "ChatEnabled":"true",
+    "NoticeEnabled":"true"
+  },
+  "Messages":{
+    "Reloaded":"plugin has been reloaded!",
+    "Invalid":"is not a valid plugin! Please check the spelling and try again.",
+    "NoPermission":"You do not have permission to use this command!"
+  }
+}

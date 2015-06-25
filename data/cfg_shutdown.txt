@@ -1,0 +1,23 @@
+{
+  "Settings":{
+    "ChatEnabled":"true",
+    "ChatName":"WARNING",
+    "HelpChatName":"Help",
+    "NoticeEnabled":"true"
+  },
+  "Messages":{
+    "ShutdownCancelled":"Server shutdown has been cancelled!",
+    "NoPermission":"You do not have permission to use this command!",
+    "ShutdownNow":"Server is shutting down!",
+    "HelpText":"Use /shutdown # to shutdown the server, now for instant, or cancel to stop.",
+    "ShutdownIn":"Server is shutting down in",
+    "Units":{
+      "Hours":"hours",
+      "Minute":"minute",
+      "Seconds":"seconds",
+      "Minutes":"minutes",
+      "Second":"second",
+      "Hour":"hour"
+    }
+  }
+}

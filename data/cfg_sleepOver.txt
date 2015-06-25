@@ -1,0 +1,8 @@
+{
+  "doorshare":false,
+  "PunishByDeath":true,
+  "chatName":"SleepOver",
+  "Version":"1.0",
+  "groups":false,
+  "factions":false
+}

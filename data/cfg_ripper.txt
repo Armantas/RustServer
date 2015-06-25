@@ -1,0 +1,17 @@
+{
+  "Messages":{
+    "NoPlayersFound":"No players found with that name",
+    "NoPermission":"You do not have permission to use this command!",
+    "MultiplePlayersFound":"Multiple players found with that name",
+    "HelpText":"Use /kill \"playername\" or all to kill player(s)",
+    "InvalidPlayerName":"You must enter a valid player name",
+    "KilledBy":"You have been killed by"
+  },
+  "Settings":{
+    "ChatEnabled":"true",
+    "ChatName":"Server",
+    "VomitSound":"true",
+    "HelpChatName":"Help",
+    "NoticeEnabled":"true"
+  }
+}

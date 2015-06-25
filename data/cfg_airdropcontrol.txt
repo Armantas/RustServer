@@ -1,0 +1,6 @@
+{
+  "AirdropCount":2,
+  "AirdropMinPlayers":2,
+  "AirdropPlanes":2,
+  "AirdropInterval":10
+}

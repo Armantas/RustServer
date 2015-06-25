@@ -1,0 +1,12 @@
+{
+  "poll_timer":30,
+  "percent_topass":50,
+  "EnableEcon":false,
+  "start_time":18,
+  "PollEnabled":true,
+  "denied_time":300,
+  "disable_whendenied":true,
+  "Poll_Cost":500,
+  "end_time":5,
+  "VoteCMD":"vote"
+}

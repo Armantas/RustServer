@@ -1,0 +1,1010 @@
+3:07 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+3:07 AM: Loading standard library...
+3:07 AM: Loading plugins...
+3:07 AM: Loading Admin Door V: 1.0.5...
+3:07 AM: Loading Advanced Kits 2.0
+3:07 AM: Loading Broadcast 1.16.7
+3:07 AM: Loading News 1.16.5
+3:07 AM: Loading Limited Sleepers V1.1.1...
+3:07 AM: Door Closer: initiating save timer
+3:07 AM: Advanced Kits admin loaded
+3:07 AM: Advanced Kits starter loaded
+3:07 AM: Advanced Kits home loaded
+3:07 AM: Advanced Kits vip loaded
+3:07 AM: Advanced Kits No auto kit!
+3:07 AM: 4 kits and player 2 kits loaded
+3:07 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+3:07 AM: Auto-Save v0.1.3 loaded!
+3:07 AM: Starting Broadcast 600
+3:07 AM: d-RestartKit v1.1.0: starting...
+3:07 AM: Name of kits:big, medium, small
+3:07 AM: Nbr of kits:3
+3:07 AM: d-RestartKit v1.1.0: successfully initialized!
+3:07 AM: Timed Daytime Poll Loaded.
+3:07 AM: Loading Decay Control mod...
+3:07 AM: Decay Control: Decay has been enabled.
+3:07 AM: pricesCfg not loaded: 
+3:07 AM: prices2 not loaded: 
+3:07 AM: economy2: loaded 5 entries
+3:07 AM: Economy v1.3.1 loaded!
+3:07 AM: Enhanced Ban System v1.0.1 loaded.
+3:07 AM: **********************************************************
+3:07 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+3:07 AM: Essentials: Loaded Essentials DATA file.
+3:07 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+3:07 AM: Essentials: Generated default CONFIG file.
+3:07 AM: Essentials: Generated default LOG file.
+3:07 AM: Essentials: Loaded Essentials ECONCFG file.
+3:07 AM: Essentials: Flags plugin not found.
+3:07 AM: Essentials: Essentials API bound!
+3:07 AM: Loading Global Stats...
+3:07 AM: 731 users are tracked by GobalStats!
+3:07 AM: News configuration updated
+3:07 AM: Loading Oxmin...
+3:07 AM: 713 users are tracked by Oxmin!
+3:07 AM: Reload v0.1.0 loaded!
+3:07 AM: Resource Manager v0.9.4 Loading...
+3:07 AM: Resource Manager: Settings file loaded. 
+3:07 AM: Resource Manager: cangive oxmin flag successfully added!
+3:07 AM: Resource Manager v0.9.4 Loaded.
+3:07 AM: Ripper v0.1.3 loaded!
+3:07 AM: Shutdown v0.1.7 loaded!
+3:07 AM: Loading Config File
+3:07 AM: uberArena: Set your spawnpoints before turning on!
+3:07 AM: uberArena version 0.8.2 successfully loaded!
+3:07 AM: VAC Kicker: ERROR - No steam api key found!
+3:07 AM: VAC Kicker v1.4 loaded
+3:07 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+3:07 AM: Advanced Kits Flags wrapper plugin not found!
+3:07 AM: Broadcast Flags wrapper plugin not found!
+3:07 AM: News Flags wrapper plugin not found!
+3:07 AM: Limited Sleepers V1.1.1 loaded correctly
+3:07 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+3:08 AM: Essentials: Started timers.
+3:08 AM: Essentials: 3 users loaded.
+3:08 AM: Essentials: Loading essentials took 20.713710784912 second(s).
+3:08 AM: **********************************************************
+3:08 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+3:09 AM: Flag AdminDoor added!
+3:10 AM: Save complete. Took: 0.11956787109375 seconds.
+3:10 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:10 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:10 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+3:10 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+3:11 AM: Resource Manager: OnServerInitialized Loading...
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:11 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+3:11 AM: Resource Manager: OnServerInitialized Loaded.
+3:14 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+3:14 AM: Loading standard library...
+3:14 AM: Loading plugins...
+3:14 AM: Loading Admin Door V: 1.0.5...
+3:14 AM: Loading Advanced Kits 2.0
+3:14 AM: Loading Broadcast 1.16.7
+3:14 AM: Loading News 1.16.5
+3:14 AM: Loading Limited Sleepers V1.1.1...
+3:14 AM: Door Closer: initiating save timer
+3:14 AM: Advanced Kits starter loaded
+3:14 AM: Advanced Kits home loaded
+3:14 AM: Advanced Kits vip loaded
+3:14 AM: Advanced Kits admin loaded
+3:14 AM: Advanced Kits No auto kit!
+3:14 AM: 4 kits and player 2 kits loaded
+3:14 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+3:14 AM: Auto-Save v0.1.3 loaded!
+3:14 AM: Starting Broadcast 600
+3:14 AM: d-RestartKit v1.1.0: starting...
+3:14 AM: Name of kits:big, medium, small
+3:14 AM: Nbr of kits:3
+3:14 AM: d-RestartKit v1.1.0: successfully initialized!
+3:14 AM: Timed Daytime Poll Loaded.
+3:14 AM: Loading Decay Control mod...
+3:14 AM: Decay Control: Decay has been enabled.
+3:14 AM: pricesCfg not loaded: 
+3:14 AM: prices2 not loaded: 
+3:14 AM: economy2: loaded 5 entries
+3:14 AM: Economy v1.3.1 loaded!
+3:14 AM: Enhanced Ban System v1.0.1 loaded.
+3:14 AM: **********************************************************
+3:14 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+3:14 AM: Essentials: Loaded Essentials DATA file.
+3:14 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+3:14 AM: Essentials: Generated default CONFIG file.
+3:14 AM: Essentials: Loaded Essentials LOG file.
+3:14 AM: Essentials: Loaded Essentials ECONCFG file.
+3:14 AM: Essentials: Flags plugin not found.
+3:14 AM: Essentials: Essentials API bound!
+3:14 AM: Loading Global Stats...
+3:14 AM: 731 users are tracked by GobalStats!
+3:14 AM: News configuration updated
+3:14 AM: Loading Oxmin...
+3:14 AM: 713 users are tracked by Oxmin!
+3:14 AM: Reload v0.1.0 loaded!
+3:14 AM: Resource Manager v0.9.4 Loading...
+3:14 AM: Resource Manager: Settings file loaded. 
+3:14 AM: Resource Manager: cangive oxmin flag successfully added!
+3:14 AM: Resource Manager v0.9.4 Loaded.
+3:14 AM: Ripper v0.1.3 loaded!
+3:14 AM: Shutdown v0.1.7 loaded!
+3:14 AM: Loading Config File
+3:14 AM: uberArena: Set your spawnpoints before turning on!
+3:14 AM: uberArena version 0.8.2 successfully loaded!
+3:14 AM: VAC Kicker: ERROR - No steam api key found!
+3:14 AM: VAC Kicker v1.4 loaded
+3:14 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+3:14 AM: Advanced Kits Flags wrapper plugin not found!
+3:14 AM: Broadcast Flags wrapper plugin not found!
+3:14 AM: News Flags wrapper plugin not found!
+3:14 AM: Limited Sleepers V1.1.1 loaded correctly
+3:14 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+3:14 AM: Essentials: Started timers.
+3:14 AM: Essentials: 3 users loaded.
+3:14 AM: Essentials: Loading essentials took -7.7781581878662 second(s).
+3:14 AM: **********************************************************
+3:14 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+3:15 AM: Flag AdminDoor added!
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:15 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+3:15 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+3:15 AM: Resource Manager: OnServerInitialized Loading...
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:15 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+3:15 AM: Resource Manager: OnServerInitialized Loaded.
+3:16 AM: Save complete. Took: 0.0068359375 seconds.
+3:18 AM: Save complete. Took: 0.004364013671875 seconds.
+3:20 AM: Save complete. Took: 0.005157470703125 seconds.
+3:21 AM: SERVER MAINTENANCE: Server maintenance in 30 seconds
+3:21 AM: SERVER MAINTENANCE: Timeleft before maintenance: 10 seconds
+3:21 AM: SERVER MAINTENANCE: Removing all decaying buildings (0s)
+3:21 AM: SERVER MAINTENANCE: Removing all bags
+3:21 AM: SERVER MAINTENANCE: Removing all sleepers
+3:21 AM: SERVER MAINTENANCE: Maintenance is now over!
+3:21 AM: SERVER MAINTENANCE: 0 structure elements were removed
+3:21 AM: SERVER MAINTENANCE: 0 bags were removed
+3:21 AM: SERVER MAINTENANCE: Sleepers were all removed
+3:22 AM: Save complete. Took: 0.00347900390625 seconds.
+3:25 AM: Save complete. Took: 0.0147705078125 seconds.
+3:27 AM: Save complete. Took: 0.00433349609375 seconds.
+3:29 AM: Save complete. Took: 0.00531005859375 seconds.
+3:31 AM: Save complete. Took: 0.00518798828125 seconds.
+3:33 AM: Save complete. Took: 0.0042724609375 seconds.
+3:35 AM: ArturasS80: sadax
+3:35 AM: Save complete. Took: 0.005615234375 seconds.
+3:37 AM: Save complete. Took: 0.0086669921875 seconds.
+3:38 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+3:41 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+3:41 AM: Loading standard library...
+3:41 AM: Loading plugins...
+3:41 AM: Loading Admin Door V: 1.0.5...
+3:41 AM: Loading Advanced Kits 2.0
+3:41 AM: Loading Broadcast 1.16.7
+3:41 AM: Loading News 1.16.5
+3:41 AM: Loading Limited Sleepers V1.1.1...
+3:41 AM: Door Closer: initiating save timer
+3:41 AM: Advanced Kits vip loaded
+3:41 AM: Advanced Kits home loaded
+3:41 AM: Advanced Kits party loaded
+3:41 AM: Advanced Kits admin loaded
+3:41 AM: Advanced Kits basic loaded
+3:41 AM: Advanced Kits starter loaded
+3:41 AM: Advanced Kits pvp loaded
+3:41 AM: Advanced Kits No auto kit!
+3:41 AM: 7 kits and player 5 kits loaded
+3:42 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+3:42 AM: Auto-Save v0.1.3 loaded!
+3:42 AM: Starting Broadcast 600
+3:42 AM: d-RestartKit v1.1.0: starting...
+3:42 AM: Name of kits:big, medium, small
+3:42 AM: Nbr of kits:3
+3:42 AM: d-RestartKit v1.1.0: successfully initialized!
+3:42 AM: Timed Daytime Poll Loaded.
+3:42 AM: Loading Decay Control mod...
+3:42 AM: Decay Control: Decay has been enabled.
+3:42 AM: pricesCfg not loaded: 
+3:42 AM: prices2 not loaded: 
+3:42 AM: economy2: loaded 5 entries
+3:42 AM: Economy v1.3.1 loaded!
+3:42 AM: Enhanced Ban System v1.0.1 loaded.
+3:42 AM: **********************************************************
+3:42 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+3:42 AM: Essentials: Loaded Essentials DATA file.
+3:42 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+3:42 AM: Essentials: Generated default CONFIG file.
+3:42 AM: Essentials: Loaded Essentials LOG file.
+3:42 AM: Essentials: Loaded Essentials ECONCFG file.
+3:42 AM: Essentials: Flags plugin not found.
+3:42 AM: Essentials: Essentials API bound!
+3:42 AM: Loading Global Stats...
+3:42 AM: 731 users are tracked by GobalStats!
+3:42 AM: News configuration updated
+3:42 AM: Loading Oxmin...
+3:42 AM: 713 users are tracked by Oxmin!
+3:42 AM: Reload v0.1.0 loaded!
+3:42 AM: Resource Manager v0.9.4 Loading...
+3:42 AM: Resource Manager: Settings file loaded. 
+3:42 AM: Resource Manager: cangive oxmin flag successfully added!
+3:42 AM: Resource Manager v0.9.4 Loaded.
+3:42 AM: Ripper v0.1.3 loaded!
+3:42 AM: Shutdown v0.1.7 loaded!
+3:42 AM: Loading Config File
+3:42 AM: VAC Kicker: ERROR - No steam api key found!
+3:42 AM: VAC Kicker v1.4 loaded
+3:42 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+3:42 AM: Advanced Kits Flags wrapper plugin not found!
+3:42 AM: Broadcast Flags wrapper plugin not found!
+3:42 AM: News Flags wrapper plugin not found!
+3:42 AM: Limited Sleepers V1.1.1 loaded correctly
+3:42 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+3:42 AM: Essentials: Started timers.
+3:42 AM: Essentials: 3 users loaded.
+3:42 AM: Essentials: Loading essentials took 2.0640296936035 second(s).
+3:42 AM: **********************************************************
+3:42 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+3:43 AM: Flag AdminDoor added!
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:44 AM: Resource Manager: OnServerInitialized Loading...
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+3:44 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+3:44 AM: Resource Manager: OnServerInitialized Loaded.
+3:44 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+3:44 AM: Save complete. Took: 0.005889892578125 seconds.
+3:44 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+3:46 AM: Save complete. Took: 0.0091552734375 seconds.
+3:48 AM: Save complete. Took: 0.028228759765625 seconds.
+3:50 AM: Save complete. Took: 0.0059814453125 seconds.
+3:52 AM: Save complete. Took: 0.00555419921875 seconds.
+3:54 AM: Save complete. Took: 0.008544921875 seconds.
+3:56 AM: Save complete. Took: 0.005615234375 seconds.
+3:58 AM: Save complete. Took: 0.02972412109375 seconds.
+4:00 AM: Save complete. Took: 0.0064697265625 seconds.
+4:02 AM: Save complete. Took: 0.005859375 seconds.
+4:04 AM: Save complete. Took: 0.0577392578125 seconds.
+4:09 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+4:09 AM: Loading standard library...
+4:09 AM: Loading plugins...
+4:09 AM: Loading Admin Door V: 1.0.5...
+4:09 AM: Loading Advanced Kits 2.0
+4:09 AM: Loading Broadcast 1.16.7
+4:09 AM: Loading News 1.16.5
+4:09 AM: Loading Limited Sleepers V1.1.1...
+4:09 AM: Door Closer: initiating save timer
+4:09 AM: Advanced Kits home loaded
+4:09 AM: Advanced Kits admin loaded
+4:09 AM: Advanced Kits starter loaded
+4:09 AM: Advanced Kits vip loaded
+4:09 AM: Advanced Kits basic loaded
+4:09 AM: Advanced Kits pvp loaded
+4:09 AM: Advanced Kits No auto kit!
+4:09 AM: 6 kits and player 4 kits loaded
+4:09 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+4:09 AM: Auto-Save v0.1.3 loaded!
+4:09 AM: Starting Broadcast 600
+4:09 AM: d-RestartKit v1.1.0: starting...
+4:09 AM: Name of kits:big, medium, small
+4:09 AM: Nbr of kits:3
+4:09 AM: d-RestartKit v1.1.0: successfully initialized!
+4:09 AM: Timed Daytime Poll Loaded.
+4:09 AM: Loading Decay Control mod...
+4:09 AM: Decay Control: Decay has been enabled.
+4:09 AM: pricesCfg not loaded: 
+4:09 AM: prices2 not loaded: 
+4:09 AM: economy2: loaded 5 entries
+4:09 AM: Economy v1.3.1 loaded!
+4:09 AM: Enhanced Ban System v1.0.1 loaded.
+4:09 AM: **********************************************************
+4:09 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+4:09 AM: Essentials: Loaded Essentials DATA file.
+4:09 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+4:09 AM: Essentials: Generated default CONFIG file.
+4:09 AM: Essentials: Loaded Essentials LOG file.
+4:09 AM: Essentials: Loaded Essentials ECONCFG file.
+4:09 AM: Essentials: Flags plugin not found.
+4:09 AM: Essentials: Essentials API bound!
+4:09 AM: Loading Global Stats...
+4:09 AM: 731 users are tracked by GobalStats!
+4:09 AM: News configuration updated
+4:09 AM: Loading Oxmin...
+4:09 AM: 713 users are tracked by Oxmin!
+4:09 AM: Reload v0.1.0 loaded!
+4:09 AM: Resource Manager v0.9.4 Loading...
+4:09 AM: Resource Manager: Settings file loaded. 
+4:09 AM: Resource Manager: cangive oxmin flag successfully added!
+4:09 AM: Resource Manager v0.9.4 Loaded.
+4:09 AM: Ripper v0.1.3 loaded!
+4:09 AM: Shutdown v0.1.7 loaded!
+4:09 AM: Loading Config File
+4:09 AM: VAC Kicker: ERROR - No steam api key found!
+4:09 AM: VAC Kicker v1.4 loaded
+4:09 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+4:09 AM: Advanced Kits Flags wrapper plugin not found!
+4:09 AM: Broadcast Flags wrapper plugin not found!
+4:09 AM: News Flags wrapper plugin not found!
+4:09 AM: Limited Sleepers V1.1.1 loaded correctly
+4:09 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+4:10 AM: Essentials: Started timers.
+4:10 AM: Essentials: 3 users loaded.
+4:10 AM: Essentials: Loading essentials took -0.065460205078125 second(s).
+4:10 AM: **********************************************************
+4:10 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+4:11 AM: Flag AdminDoor added!
+4:11 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:11 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:12 AM: Save complete. Took: 0.0043182373046875 seconds.
+4:12 AM: Resource Manager: OnServerInitialized Loading...
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:12 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+4:12 AM: Resource Manager: OnServerInitialized Loaded.
+4:12 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+4:12 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+4:14 AM: Save complete. Took: 0.0056610107421875 seconds.
+4:16 AM: Save complete. Took: 0.008270263671875 seconds.
+4:18 AM: Save complete. Took: 0.004547119140625 seconds.
+4:20 AM: Save complete. Took: 0.01361083984375 seconds.
+4:22 AM: ERROR: Essentials: Lua error handling chat command 'reload'!
+4:22 AM: ERROR: Essentials: [string "Essentials.lua"]:1456: attempt to concatenate local 'name' (a nil value)
+4:22 AM: Save complete. Took: 0.006591796875 seconds.
+4:22 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+4:28 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+4:28 AM: Loading standard library...
+4:28 AM: Loading plugins...
+4:28 AM: Loading Admin Door V: 1.0.5...
+4:28 AM: Loading Advanced Kits 2.0
+4:28 AM: Loading Broadcast 1.16.7
+4:28 AM: Loading News 1.16.5
+4:29 AM: Loading Limited Sleepers V1.1.1...
+4:29 AM: Door Closer: initiating save timer
+4:29 AM: Advanced Kits pvp loaded
+4:29 AM: Advanced Kits home loaded
+4:29 AM: Advanced Kits starter loaded
+4:29 AM: Advanced Kits basic loaded
+4:29 AM: Advanced Kits admin loaded
+4:29 AM: Advanced Kits vip loaded
+4:29 AM: Advanced Kits No auto kit!
+4:29 AM: 6 kits and player 4 kits loaded
+4:29 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+4:29 AM: Auto-Save v0.1.3 loaded!
+4:29 AM: Starting Broadcast 600
+4:29 AM: d-RestartKit v1.1.0: starting...
+4:29 AM: Name of kits:big, medium, small
+4:29 AM: Nbr of kits:3
+4:29 AM: d-RestartKit v1.1.0: successfully initialized!
+4:29 AM: Timed Daytime Poll Loaded.
+4:29 AM: Loading Decay Control mod...
+4:29 AM: Decay Control: Decay has been enabled.
+4:29 AM: pricesCfg not loaded: 
+4:29 AM: prices2 not loaded: 
+4:29 AM: economy2: loaded 5 entries
+4:29 AM: Economy v1.3.1 loaded!
+4:29 AM: Enhanced Ban System v1.0.1 loaded.
+4:29 AM: **********************************************************
+4:29 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+4:29 AM: Essentials: Loaded Essentials DATA file.
+4:29 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+4:29 AM: Essentials: Generated default CONFIG file.
+4:29 AM: Essentials: Loaded Essentials LOG file.
+4:29 AM: Essentials: Loaded Essentials ECONCFG file.
+4:29 AM: Essentials: Flags plugin not found.
+4:29 AM: Essentials: Essentials API bound!
+4:29 AM: Loading Global Stats...
+4:29 AM: 731 users are tracked by GobalStats!
+4:29 AM: News configuration updated
+4:29 AM: Loading Oxmin...
+4:29 AM: 713 users are tracked by Oxmin!
+4:29 AM: Reload v0.1.0 loaded!
+4:29 AM: Resource Manager v0.9.4 Loading...
+4:29 AM: Resource Manager: Settings file loaded. 
+4:29 AM: Resource Manager: cangive oxmin flag successfully added!
+4:29 AM: Resource Manager v0.9.4 Loaded.
+4:29 AM: Ripper v0.1.3 loaded!
+4:29 AM: Shutdown v0.1.7 loaded!
+4:29 AM: Loading Config File
+4:29 AM: VAC Kicker: ERROR - No steam api key found!
+4:29 AM: VAC Kicker v1.4 loaded
+4:29 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+4:29 AM: Advanced Kits Flags wrapper plugin not found!
+4:29 AM: Broadcast Flags wrapper plugin not found!
+4:29 AM: News Flags wrapper plugin not found!
+4:29 AM: Limited Sleepers V1.1.1 loaded correctly
+4:29 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+4:29 AM: Essentials: Started timers.
+4:29 AM: Essentials: 3 users loaded.
+4:29 AM: Essentials: Loading essentials took 0.24841690063477 second(s).
+4:29 AM: **********************************************************
+4:29 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+4:30 AM: Flag AdminDoor added!
+4:30 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:30 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:31 AM: Resource Manager: OnServerInitialized Loading...
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+4:31 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+4:31 AM: Resource Manager: OnServerInitialized Loaded.
+4:31 AM: Save complete. Took: 0.0063629150390625 seconds.
+4:33 AM: Save complete. Took: 0.00372314453125 seconds.
+5:08 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+5:08 AM: Loading standard library...
+5:08 AM: Loading plugins...
+5:08 AM: Loading Admin Door V: 1.0.5...
+5:08 AM: Loading Advanced Kits 2.0
+5:08 AM: Loading Broadcast 1.16.7
+5:08 AM: Loading News 1.16.5
+5:08 AM: Loading Limited Sleepers V1.1.1...
+5:08 AM: Door Closer: initiating save timer
+5:08 AM: Advanced Kits admin loaded
+5:08 AM: Advanced Kits vip loaded
+5:08 AM: Advanced Kits pvp loaded
+5:08 AM: Advanced Kits home loaded
+5:08 AM: Advanced Kits basic loaded
+5:08 AM: Advanced Kits starter loaded
+5:08 AM: Advanced Kits No auto kit!
+5:08 AM: 6 kits and player 4 kits loaded
+5:08 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:08 AM: Auto-Save v0.1.3 loaded!
+5:08 AM: Starting Broadcast 600
+5:08 AM: d-RestartKit v1.1.0: starting...
+5:08 AM: Name of kits:big, medium, small
+5:08 AM: Nbr of kits:3
+5:08 AM: d-RestartKit v1.1.0: successfully initialized!
+5:08 AM: Timed Daytime Poll Loaded.
+5:08 AM: Loading Decay Control mod...
+5:08 AM: Decay Control: Decay has been enabled.
+5:08 AM: pricesCfg not loaded: 
+5:08 AM: prices2 not loaded: 
+5:08 AM: economy2: loaded 5 entries
+5:08 AM: Economy v1.3.1 loaded!
+5:08 AM: Enhanced Ban System v1.0.1 loaded.
+5:08 AM: **********************************************************
+5:08 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:08 AM: Essentials: Loaded Essentials DATA file.
+5:08 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:08 AM: Essentials: Generated default CONFIG file.
+5:08 AM: Essentials: Loaded Essentials LOG file.
+5:08 AM: Essentials: Loaded Essentials ECONCFG file.
+5:08 AM: Essentials: Flags plugin not found.
+5:08 AM: Essentials: Essentials API bound!
+5:08 AM: Loading Global Stats...
+5:08 AM: 731 users are tracked by GobalStats!
+5:08 AM: News configuration updated
+5:08 AM: Loading Oxmin...
+5:08 AM: 713 users are tracked by Oxmin!
+5:08 AM: Reload v0.1.0 loaded!
+5:08 AM: Resource Manager v0.9.4 Loading...
+5:08 AM: Resource Manager: Settings file loaded. 
+5:08 AM: Resource Manager: cangive oxmin flag successfully added!
+5:08 AM: Resource Manager v0.9.4 Loaded.
+5:08 AM: Ripper v0.1.3 loaded!
+5:08 AM: Shutdown v0.1.7 loaded!
+5:08 AM: Loading Config File
+5:08 AM: VAC Kicker: ERROR - No steam api key found!
+5:08 AM: VAC Kicker v1.4 loaded
+5:08 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:08 AM: Advanced Kits Flags wrapper plugin not found!
+5:08 AM: Broadcast Flags wrapper plugin not found!
+5:08 AM: News Flags wrapper plugin not found!
+5:08 AM: Limited Sleepers V1.1.1 loaded correctly
+5:08 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:09 AM: Essentials: Started timers.
+5:09 AM: Essentials: 3 users loaded.
+5:09 AM: Essentials: Loading essentials took -3.1105613708496 second(s).
+5:09 AM: **********************************************************
+5:09 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:09 AM: Flag AdminDoor added!
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:09 AM: Resource Manager: OnServerInitialized Loading...
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:09 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:10 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:10 AM: Resource Manager: OnServerInitialized Loaded.
+5:11 AM: Save complete. Took: 0.0034408569335938 seconds.
+5:11 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:11 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:13 AM: Save complete. Took: 0.006256103515625 seconds.
+5:14 AM: User "Armandas" connected with SteamID 'STEAM_0:1:514761'
+5:14 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:15 AM: Save complete. Took: 0.00390625 seconds.
+5:15 AM: Armandas: -kit
+5:17 AM: Save complete. Took: 0.00848388671875 seconds.
+5:19 AM: Save complete. Took: 0.00445556640625 seconds.
+5:19 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=head&dist=5&dmg=84&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+5:19 AM: Essentials: webrequest connection failed
+5:19 AM: Essentials: webrequest connection failed
+5:21 AM: Save complete. Took: 0.01019287109375 seconds.
+5:23 AM: Save complete. Took: 0.01080322265625 seconds.
+5:24 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=chest&dist=7&dmg=37&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+5:24 AM: Essentials: webrequest connection failed
+5:24 AM: Essentials: webrequest connection failed
+5:25 AM: Save complete. Took: 0.01544189453125 seconds.
+5:26 AM: ERROR: Essentials: Lua error handling chat command 'reload'!
+5:26 AM: ERROR: Essentials: [string "Essentials.lua"]:1456: attempt to concatenate local 'name' (a nil value)
+5:27 AM: ERROR: Essentials: Lua error handling chat command 'reload'!
+5:27 AM: ERROR: Essentials: [string "Essentials.lua"]:1456: attempt to concatenate local 'name' (a nil value)
+5:27 AM: Save complete. Took: 0.0050048828125 seconds.
+5:27 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+5:27 AM: User "Armandas" disconnected with SteamID 'STEAM_0:1:514761'
+5:28 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+5:28 AM: Loading standard library...
+5:28 AM: Loading plugins...
+5:28 AM: Loading Admin Door V: 1.0.5...
+5:28 AM: Loading Advanced Kits 2.0
+5:28 AM: Loading Broadcast 1.16.7
+5:29 AM: Loading News 1.16.5
+5:29 AM: Loading Limited Sleepers V1.1.1...
+5:29 AM: Door Closer: initiating save timer
+5:29 AM: Advanced Kits home loaded
+5:29 AM: Advanced Kits admin loaded
+5:29 AM: Advanced Kits starter loaded
+5:29 AM: Advanced Kits basic loaded
+5:29 AM: Advanced Kits vip loaded
+5:29 AM: Advanced Kits No auto kit!
+5:29 AM: 5 kits and player 3 kits loaded
+5:29 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:29 AM: Auto-Save v0.1.3 loaded!
+5:29 AM: Starting Broadcast 600
+5:29 AM: d-RestartKit v1.1.0: starting...
+5:29 AM: Name of kits:big, medium, small
+5:29 AM: Nbr of kits:3
+5:29 AM: d-RestartKit v1.1.0: successfully initialized!
+5:29 AM: Timed Daytime Poll Loaded.
+5:29 AM: Loading Decay Control mod...
+5:29 AM: Decay Control: Decay has been enabled.
+5:29 AM: pricesCfg not loaded: 
+5:29 AM: prices2 not loaded: 
+5:29 AM: economy2: loaded 5 entries
+5:29 AM: Economy v1.3.1 loaded!
+5:29 AM: Enhanced Ban System v1.0.1 loaded.
+5:29 AM: **********************************************************
+5:29 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:29 AM: Essentials: Loaded Essentials DATA file.
+5:29 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:29 AM: Essentials: Generated default CONFIG file.
+5:29 AM: Essentials: Loaded Essentials LOG file.
+5:29 AM: Essentials: Loaded Essentials ECONCFG file.
+5:29 AM: Essentials: Flags plugin not found.
+5:29 AM: Essentials: Essentials API bound!
+5:29 AM: Loading Global Stats...
+5:29 AM: 731 users are tracked by GobalStats!
+5:29 AM: News configuration updated
+5:29 AM: Loading Oxmin...
+5:29 AM: 713 users are tracked by Oxmin!
+5:29 AM: Reload v0.1.0 loaded!
+5:29 AM: Resource Manager v0.9.4 Loading...
+5:29 AM: Resource Manager: Settings file loaded. 
+5:29 AM: Resource Manager: cangive oxmin flag successfully added!
+5:29 AM: Resource Manager v0.9.4 Loaded.
+5:29 AM: Ripper v0.1.3 loaded!
+5:29 AM: Shutdown v0.1.7 loaded!
+5:29 AM: Loading Config File
+5:29 AM: VAC Kicker: ERROR - No steam api key found!
+5:29 AM: VAC Kicker v1.4 loaded
+5:29 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:29 AM: Advanced Kits Flags wrapper plugin not found!
+5:29 AM: Broadcast Flags wrapper plugin not found!
+5:29 AM: News Flags wrapper plugin not found!
+5:29 AM: Limited Sleepers V1.1.1 loaded correctly
+5:29 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:29 AM: Essentials: Started timers.
+5:29 AM: Essentials: 3 users loaded.
+5:29 AM: Essentials: Loading essentials took -5.6656942367554 second(s).
+5:29 AM: **********************************************************
+5:29 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:30 AM: Flag AdminDoor added!
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:30 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:30 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:30 AM: User "Armandas" connected with SteamID 'STEAM_0:1:514761'
+5:30 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:30 AM: Resource Manager: OnServerInitialized Loading...
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:30 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:30 AM: Resource Manager: OnServerInitialized Loaded.
+5:31 AM: Save complete. Took: 0.0094451904296875 seconds.
+5:32 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=head&dist=1&dmg=103&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+5:32 AM: Essentials: webrequest connection failed
+5:32 AM: Essentials: webrequest connection failed
+5:33 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=right hand&dist=0&dmg=34&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+5:33 AM: Essentials: webrequest connection failed
+5:33 AM: Essentials: webrequest connection failed
+5:33 AM: Save complete. Took: 0.0038299560546875 seconds.
+5:34 AM: [Admin]Armandas: kit
+5:34 AM: ArturasS80: sad
+5:34 AM: ArturasS80: sadsad
+5:35 AM: [Admin]Armandas: asdsa
+5:35 AM: User "Armandas" disconnected with SteamID 'STEAM_0:1:514761'
+5:35 AM: User "Armandas" connected with SteamID 'STEAM_0:1:514761'
+5:35 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:35 AM: Save complete. Took: 0.00360107421875 seconds.
+5:35 AM: [Admin]Armandas: asda
+5:37 AM: Save complete. Took: 0.00732421875 seconds.
+5:37 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+5:37 AM: User "Armandas" disconnected with SteamID 'STEAM_0:1:514761'
+5:38 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+5:38 AM: Loading standard library...
+5:38 AM: Loading plugins...
+5:38 AM: Loading Admin Door V: 1.0.5...
+5:38 AM: Loading Advanced Kits 2.0
+5:38 AM: Loading Broadcast 1.16.7
+5:38 AM: Loading News 1.16.5
+5:38 AM: Loading Limited Sleepers V1.1.1...
+5:38 AM: Door Closer: initiating save timer
+5:38 AM: Advanced Kits home loaded
+5:38 AM: Advanced Kits vip loaded
+5:38 AM: Advanced Kits basic loaded
+5:38 AM: Advanced Kits starter loaded
+5:38 AM: Advanced Kits admin loaded
+5:38 AM: Advanced Kits No auto kit!
+5:38 AM: 5 kits and player 3 kits loaded
+5:38 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:38 AM: Auto-Save v0.1.3 loaded!
+5:38 AM: Starting Broadcast 600
+5:38 AM: d-RestartKit v1.1.0: starting...
+5:38 AM: Name of kits:big, medium, small
+5:38 AM: Nbr of kits:3
+5:38 AM: d-RestartKit v1.1.0: successfully initialized!
+5:38 AM: Timed Daytime Poll Loaded.
+5:38 AM: Loading Decay Control mod...
+5:38 AM: Decay Control: Decay has been enabled.
+5:38 AM: pricesCfg not loaded: 
+5:38 AM: prices2 not loaded: 
+5:38 AM: economy2: loaded 5 entries
+5:38 AM: Economy v1.3.1 loaded!
+5:38 AM: Enhanced Ban System v1.0.1 loaded.
+5:38 AM: **********************************************************
+5:38 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:38 AM: Essentials: Loaded Essentials DATA file.
+5:38 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:38 AM: Essentials: Generated default CONFIG file.
+5:38 AM: Essentials: Loaded Essentials LOG file.
+5:38 AM: Essentials: Loaded Essentials ECONCFG file.
+5:38 AM: Essentials: Flags plugin not found.
+5:38 AM: Essentials: Essentials API bound!
+5:38 AM: Loading Global Stats...
+5:38 AM: 731 users are tracked by GobalStats!
+5:38 AM: News configuration updated
+5:38 AM: Loading Oxmin...
+5:38 AM: 713 users are tracked by Oxmin!
+5:38 AM: Reload v0.1.0 loaded!
+5:38 AM: Resource Manager v0.9.4 Loading...
+5:38 AM: Resource Manager: Settings file loaded. 
+5:38 AM: Resource Manager: cangive oxmin flag successfully added!
+5:38 AM: Resource Manager v0.9.4 Loaded.
+5:38 AM: Ripper v0.1.3 loaded!
+5:38 AM: Shutdown v0.1.7 loaded!
+5:38 AM: Loading Config File
+5:38 AM: VAC Kicker: ERROR - No steam api key found!
+5:38 AM: VAC Kicker v1.4 loaded
+5:38 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:38 AM: Advanced Kits Flags wrapper plugin not found!
+5:38 AM: Broadcast Flags wrapper plugin not found!
+5:38 AM: News Flags wrapper plugin not found!
+5:38 AM: Limited Sleepers V1.1.1 loaded correctly
+5:38 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:39 AM: Essentials: Started timers.
+5:39 AM: Essentials: 3 users loaded.
+5:39 AM: Essentials: Loading essentials took -7.5395669937134 second(s).
+5:39 AM: **********************************************************
+5:39 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:39 AM: Flag AdminDoor added!
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:40 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:40 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:40 AM: Resource Manager: OnServerInitialized Loading...
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:40 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:40 AM: Resource Manager: OnServerInitialized Loaded.
+5:41 AM: Save complete. Took: 0.0095062255859375 seconds.
+5:43 AM: Save complete. Took: 0.0059661865234375 seconds.
+5:45 AM: Save complete. Took: 0.021270751953125 seconds.
+5:47 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+5:47 AM: Loading standard library...
+5:47 AM: Loading plugins...
+5:47 AM: Loading Admin Door V: 1.0.5...
+5:47 AM: Loading Advanced Kits 2.0
+5:47 AM: Loading Broadcast 1.16.7
+5:47 AM: Loading News 1.16.5
+5:47 AM: Loading Limited Sleepers V1.1.1...
+5:47 AM: Door Closer: initiating save timer
+5:47 AM: Advanced Kits admin loaded
+5:47 AM: Advanced Kits basic loaded
+5:47 AM: Advanced Kits vip loaded
+5:47 AM: Advanced Kits home loaded
+5:47 AM: Advanced Kits starter loaded
+5:47 AM: Advanced Kits No auto kit!
+5:47 AM: 5 kits and player 3 kits loaded
+5:48 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:48 AM: Auto-Save v0.1.3 loaded!
+5:48 AM: Starting Broadcast 600
+5:48 AM: d-RestartKit v1.1.0: starting...
+5:48 AM: Name of kits:big, medium, small
+5:48 AM: Nbr of kits:3
+5:48 AM: d-RestartKit v1.1.0: successfully initialized!
+5:48 AM: Timed Daytime Poll Loaded.
+5:48 AM: Loading Decay Control mod...
+5:48 AM: Decay Control: Decay has been enabled.
+5:48 AM: pricesCfg not loaded: 
+5:48 AM: prices2 not loaded: 
+5:48 AM: economy2: loaded 5 entries
+5:48 AM: Economy v1.3.1 loaded!
+5:48 AM: Enhanced Ban System v1.0.1 loaded.
+5:48 AM: **********************************************************
+5:48 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:48 AM: Essentials: Loaded Essentials DATA file.
+5:48 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:48 AM: Essentials: Generated default CONFIG file.
+5:48 AM: Essentials: Loaded Essentials LOG file.
+5:48 AM: Essentials: Loaded Essentials ECONCFG file.
+5:48 AM: Essentials: Flags plugin not found.
+5:48 AM: Essentials: Essentials API bound!
+5:48 AM: Loading Global Stats...
+5:48 AM: 731 users are tracked by GobalStats!
+5:48 AM: News configuration updated
+5:48 AM: Loading Oxmin...
+5:48 AM: 713 users are tracked by Oxmin!
+5:48 AM: Reload v0.1.0 loaded!
+5:48 AM: Resource Manager v0.9.4 Loading...
+5:48 AM: Resource Manager: Settings file loaded. 
+5:48 AM: Resource Manager: cangive oxmin flag successfully added!
+5:48 AM: Resource Manager v0.9.4 Loaded.
+5:48 AM: Ripper v0.1.3 loaded!
+5:48 AM: Shutdown v0.1.7 loaded!
+5:48 AM: Loading Config File
+5:48 AM: VAC Kicker: ERROR - No steam api key found!
+5:48 AM: VAC Kicker v1.4 loaded
+5:48 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:48 AM: Advanced Kits Flags wrapper plugin not found!
+5:48 AM: Broadcast Flags wrapper plugin not found!
+5:48 AM: News Flags wrapper plugin not found!
+5:48 AM: Limited Sleepers V1.1.1 loaded correctly
+5:48 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:48 AM: Essentials: Started timers.
+5:48 AM: Essentials: 3 users loaded.
+5:48 AM: Essentials: Loading essentials took 1.8582229614258 second(s).
+5:48 AM: **********************************************************
+5:48 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:49 AM: Flag AdminDoor added!
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:49 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:49 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:49 AM: Resource Manager: OnServerInitialized Loading...
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:49 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:49 AM: Resource Manager: OnServerInitialized Loaded.
+5:50 AM: Save complete. Took: 0.010757446289063 seconds.
+5:52 AM: Save complete. Took: 0.013870239257813 seconds.
+5:53 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+5:54 AM: Save complete. Took: 0.004852294921875 seconds.
+5:54 AM: User "Mod Tranchon" connected with SteamID 'STEAM_0:0:854043'
+5:54 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:55 AM: User "Armandas" connected with SteamID 'STEAM_0:1:514761'
+5:55 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:56 AM: Mod Tranchon: sdas
+5:56 AM: Save complete. Took: 0.004638671875 seconds.
+5:56 AM: [Admin]Armandas: asda
+5:58 AM: Save complete. Took: 0.00543212890625 seconds.
+6:00 AM: User "Mod Tranchon" disconnected with SteamID 'STEAM_0:0:854043'
+6:00 AM: User "Armandas" disconnected with SteamID 'STEAM_0:1:514761'
+6:00 AM: Loading at C:\Users\Arturas\Desktop\RS-Rust\save\oxide...
+6:00 AM: Loading standard library...
+6:00 AM: Loading plugins...
+6:00 AM: Loading Admin Door V: 1.0.5...
+6:00 AM: Loading Advanced Kits 2.0
+6:00 AM: Loading Broadcast 1.16.7
+6:00 AM: Loading News 1.16.5
+6:00 AM: Loading Limited Sleepers V1.1.1...
+6:00 AM: Door Closer: initiating save timer
+6:00 AM: Advanced Kits admin loaded
+6:00 AM: Advanced Kits basic loaded
+6:00 AM: Advanced Kits home loaded
+6:00 AM: Advanced Kits starter loaded
+6:00 AM: Advanced Kits vip loaded
+6:00 AM: Advanced Kits No auto kit!
+6:00 AM: 5 kits and player 3 kits loaded
+6:00 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+6:00 AM: Auto-Save v0.1.3 loaded!
+6:00 AM: Starting Broadcast 600
+6:00 AM: d-RestartKit v1.1.0: starting...
+6:00 AM: Name of kits:big, medium, small
+6:00 AM: Nbr of kits:3
+6:00 AM: d-RestartKit v1.1.0: successfully initialized!
+6:00 AM: Timed Daytime Poll Loaded.
+6:00 AM: Loading Decay Control mod...
+6:00 AM: Decay Control: Decay has been enabled.
+6:00 AM: pricesCfg not loaded: 
+6:00 AM: prices2 not loaded: 
+6:00 AM: economy2: loaded 5 entries
+6:00 AM: Economy v1.3.1 loaded!
+6:00 AM: Enhanced Ban System v1.0.1 loaded.
+6:00 AM: Loading Global Stats...
+6:00 AM: 731 users are tracked by GobalStats!
+6:00 AM: News configuration updated
+6:00 AM: Loading Oxmin...
+6:00 AM: 713 users are tracked by Oxmin!
+6:00 AM: Reload v0.1.0 loaded!
+6:00 AM: Resource Manager v0.9.4 Loading...
+6:00 AM: Resource Manager: Settings file loaded. 
+6:00 AM: Resource Manager: cangive oxmin flag successfully added!
+6:00 AM: Resource Manager v0.9.4 Loaded.
+6:00 AM: Ripper v0.1.3 loaded!
+6:00 AM: Shutdown v0.1.7 loaded!
+6:00 AM: Loading Config File
+6:00 AM: VAC Kicker: ERROR - No steam api key found!
+6:00 AM: VAC Kicker v1.4 loaded
+6:00 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+6:00 AM: Advanced Kits Flags wrapper plugin not found!
+6:00 AM: Broadcast Flags wrapper plugin not found!
+6:00 AM: News Flags wrapper plugin not found!
+6:00 AM: Limited Sleepers V1.1.1 loaded correctly
+6:00 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+6:01 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+6:01 AM: Flag AdminDoor added!
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+6:02 AM: Resource Manager: OnServerInitialized Loading...
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+6:02 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+6:02 AM: Resource Manager: OnServerInitialized Loaded.
+6:03 AM: User "Arturas" connected with SteamID 'STEAM_0:0:854043'
+6:03 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+6:03 AM: User "Armandas" connected with SteamID 'STEAM_0:1:514761'
+6:03 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+6:04 AM: User "Armandas" disconnected with SteamID 'STEAM_0:1:514761'
+6:05 AM: User "Armandas" connected with SteamID 'STEAM_0:1:514761'
+6:05 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+6:05 AM: Arturas: sadas
+6:06 AM: 'Arturas' (STEAM_0:0:854043) ran command '/god '
+6:07 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=torso&dist=1&dmg=31&killer=Arturas&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+6:10 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1708086&killer-id=1029523&weapon=M4&bodypart=head&dist=26&dmg=103&killer=Armandas&killed=Arturas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+6:11 AM: Arturas: asd
+6:11 AM: 'Arturas' (STEAM_0:0:854043) ran command '/help '
+6:13 AM: User "Arturas" disconnected with SteamID 'STEAM_0:0:854043'
+6:13 AM: User "Arturas" connected with SteamID 'STEAM_0:0:854043'
+6:13 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+6:15 AM: User "Arturas" disconnected with SteamID 'STEAM_0:0:854043'
+6:15 AM: User "Arturas" connected with SteamID 'STEAM_0:0:854043'
+6:15 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+6:15 AM: Armandas: kit
+6:16 AM: 'Arturas' (STEAM_0:0:854043) ran command '/tp Armandas'
+6:16 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=Rock&bodypart=body&dist=0&dmg=20&killer=Arturas&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+6:18 AM: 'Arturas' (STEAM_0:0:854043) ran command '/god '
+6:18 AM: 'Arturas' (STEAM_0:0:854043) ran command '/god '
+6:22 AM: 'Arturas' (STEAM_0:0:854043) ran command '/tp Armandas'
+6:22 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=Haemorrhage&bodypart=right bicep&dist=1&dmg=10&killer=Arturas&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+6:22 AM: 'Armandas' (STEAM_0:1:514761) ran command '/tp arturas'
+6:22 AM: Arturas: asdas
+6:23 AM: 'Armandas' (STEAM_0:1:514761) ran command '/tp Arturas'
+6:24 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1708086&killer-id=1029523&weapon=M4&bodypart=head&dist=95&dmg=93&killer=Armandas&killed=Arturas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+6:24 AM: Armandas might be using no recoil
+6:24 AM: 'Arturas' (STEAM_0:0:854043) ran command '/tp Armandas'
+6:25 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1708086&killer-id=1029523&weapon=M4&bodypart=left hand&dist=36&dmg=31&killer=Armandas&killed=Arturas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+6:26 AM: 'Arturas' (STEAM_0:0:854043) ran command '/tp Armandas'
+6:26 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=head&dist=28&dmg=94&killer=Arturas&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+6:27 AM: ERROR: reload: Arturas has Oxmin flag: canreload
+6:27 AM: ERROR: reload: Lua error handling chat command 'reload'!
+6:27 AM: ERROR: reload: [string "reload.lua"]:31: bad argument #1 to 'upper' (string expected, got nil)

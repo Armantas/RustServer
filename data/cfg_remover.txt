@@ -1,0 +1,6 @@
+{
+  "AllowPlayerGiveItems":true,
+  "UseGroups":false,
+  "Economy":false,
+  "AllowPlayer":true
+}

@@ -1,0 +1,243 @@
+1:19 PM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+1:19 PM: Loading standard library...
+1:19 PM: Loading plugins...
+1:19 PM: Loading Admin Door V: 1.0.5...
+1:19 PM: Loading Advanced Kits 2.0
+1:19 PM: Loading Broadcast 1.16.7
+1:19 PM: Loading News 1.16.5
+1:19 PM: Loading Limited Sleepers V1.1.1...
+1:19 PM: Door Closer: initiating save timer
+1:19 PM: Advanced Kits home loaded
+1:19 PM: Advanced Kits admin loaded
+1:19 PM: Advanced Kits starter loaded
+1:19 PM: Advanced Kits vip loaded
+1:19 PM: Advanced Kits No auto kit!
+1:19 PM: 4 kits and player 2 kits loaded
+1:19 PM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+1:19 PM: Auto-Save v0.1.3 loaded!
+1:19 PM: Starting Broadcast 600
+1:19 PM: d-RestartKit v1.1.0: starting...
+1:19 PM: Name of kits:big, medium, small
+1:19 PM: Nbr of kits:3
+1:19 PM: d-RestartKit v1.1.0: successfully initialized!
+1:19 PM: Timed Daytime Poll Loaded.
+1:19 PM: Loading Decay Control mod...
+1:19 PM: Decay Control: Decay has been enabled.
+1:19 PM: pricesCfg not loaded: 
+1:19 PM: prices2 not loaded: 
+1:19 PM: economy2: loaded 3 entries
+1:19 PM: Economy v1.3.1 loaded!
+1:19 PM: Enhanced Ban System v1.0.1 loaded.
+1:19 PM: **********************************************************
+1:19 PM: Essentials (1.3.1) plugin loaded with resource ID: 425
+1:19 PM: Essentials: Loaded Essentials DATA file.
+1:19 PM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+1:19 PM: Essentials: Generated default CONFIG file.
+1:19 PM: Essentials: Generated default LOG file.
+1:19 PM: Essentials: Loaded Essentials ECONCFG file.
+1:19 PM: Essentials: Flags plugin not found.
+1:19 PM: Essentials: Essentials API bound!
+1:19 PM: Loading Global Stats...
+1:19 PM: 729 users are tracked by GobalStats!
+1:19 PM: News configuration updated
+1:19 PM: Loading Oxmin...
+1:19 PM: 711 users are tracked by Oxmin!
+1:19 PM: Reload v0.1.0 loaded!
+1:19 PM: Resource Manager v0.9.4 Loading...
+1:19 PM: Resource Manager: Settings file loaded. 
+1:19 PM: Resource Manager: cangive oxmin flag successfully added!
+1:19 PM: Resource Manager v0.9.4 Loaded.
+1:19 PM: Ripper v0.1.3 loaded!
+1:19 PM: Shutdown v0.1.7 loaded!
+1:19 PM: Loading Config File
+1:19 PM: uberArena: Set your spawnpoints before turning on!
+1:19 PM: uberArena version 0.8.2 successfully loaded!
+1:19 PM: VAC Kicker: ERROR - No steam api key found!
+1:19 PM: VAC Kicker v1.4 loaded
+1:19 PM: WelcomeKit v2.05: successfully initialized! Enjoy!
+1:19 PM: Advanced Kits Flags wrapper plugin not found!
+1:19 PM: Broadcast Flags wrapper plugin not found!
+1:19 PM: News Flags wrapper plugin not found!
+1:19 PM: Limited Sleepers V1.1.1 loaded correctly
+1:19 PM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+1:20 PM: Essentials: Started timers.
+1:20 PM: Essentials: 3 users loaded.
+1:20 PM: Essentials: Loading essentials took -1.3857107162476 second(s).
+1:20 PM: **********************************************************
+1:20 PM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+1:20 PM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+1:20 PM: Loading standard library...
+1:20 PM: Loading plugins...
+1:20 PM: Loading Admin Door V: 1.0.5...
+1:20 PM: Loading Advanced Kits 2.0
+1:20 PM: Loading Broadcast 1.16.7
+1:20 PM: Loading News 1.16.5
+1:20 PM: Loading Limited Sleepers V1.1.1...
+1:20 PM: Door Closer: initiating save timer
+1:20 PM: Advanced Kits vip loaded
+1:20 PM: Advanced Kits home loaded
+1:20 PM: Advanced Kits admin loaded
+1:20 PM: Advanced Kits starter loaded
+1:20 PM: Advanced Kits No auto kit!
+1:20 PM: 4 kits and player 2 kits loaded
+1:20 PM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+1:20 PM: Auto-Save v0.1.3 loaded!
+1:20 PM: Starting Broadcast 600
+1:20 PM: d-RestartKit v1.1.0: starting...
+1:20 PM: Name of kits:big, medium, small
+1:20 PM: Nbr of kits:3
+1:20 PM: d-RestartKit v1.1.0: successfully initialized!
+1:20 PM: Timed Daytime Poll Loaded.
+1:20 PM: Loading Decay Control mod...
+1:20 PM: Decay Control: Decay has been enabled.
+1:20 PM: pricesCfg not loaded: 
+1:20 PM: prices2 not loaded: 
+1:20 PM: economy2: loaded 3 entries
+1:20 PM: Economy v1.3.1 loaded!
+1:20 PM: Enhanced Ban System v1.0.1 loaded.
+1:20 PM: **********************************************************
+1:20 PM: Essentials (1.3.1) plugin loaded with resource ID: 425
+1:20 PM: Essentials: Loaded Essentials DATA file.
+1:20 PM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+1:20 PM: Essentials: Generated default CONFIG file.
+1:20 PM: Essentials: Loaded Essentials LOG file.
+1:20 PM: Essentials: Loaded Essentials ECONCFG file.
+1:20 PM: Essentials: Flags plugin not found.
+1:20 PM: Essentials: Essentials API bound!
+1:20 PM: Loading Global Stats...
+1:20 PM: 729 users are tracked by GobalStats!
+1:20 PM: News configuration updated
+1:20 PM: Loading Oxmin...
+1:20 PM: 711 users are tracked by Oxmin!
+1:20 PM: Reload v0.1.0 loaded!
+1:20 PM: Resource Manager v0.9.4 Loading...
+1:20 PM: Resource Manager: Settings file loaded. 
+1:20 PM: Resource Manager: cangive oxmin flag successfully added!
+1:20 PM: Resource Manager v0.9.4 Loaded.
+1:20 PM: Ripper v0.1.3 loaded!
+1:20 PM: Shutdown v0.1.7 loaded!
+1:20 PM: Loading Config File
+1:20 PM: uberArena: Set your spawnpoints before turning on!
+1:20 PM: uberArena version 0.8.2 successfully loaded!
+1:20 PM: VAC Kicker: ERROR - No steam api key found!
+1:20 PM: VAC Kicker v1.4 loaded
+1:20 PM: WelcomeKit v2.05: successfully initialized! Enjoy!
+1:20 PM: Advanced Kits Flags wrapper plugin not found!
+1:20 PM: Broadcast Flags wrapper plugin not found!
+1:20 PM: News Flags wrapper plugin not found!
+1:20 PM: Limited Sleepers V1.1.1 loaded correctly
+1:20 PM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+1:20 PM: Essentials: Started timers.
+1:20 PM: Essentials: 3 users loaded.
+1:20 PM: Essentials: Loading essentials took -7.3728995323181 second(s).
+1:20 PM: **********************************************************
+1:20 PM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+1:21 PM: Resource Manager: OnServerInitialized Loading...
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+1:21 PM: Resource Manager: OnServerInitialized Loaded.
+1:21 PM: Flag AdminDoor added!
+1:21 PM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+1:22 PM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+1:22 PM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+1:22 PM: Save complete. Took: 0.0042190551757813 seconds.
+1:23 PM: User "Andrei" connected with SteamID 'STEAM_0:0:155314'
+1:23 PM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+1:24 PM: Andrei: heyo brah
+1:24 PM: ArturasS80: yoo
+1:24 PM: ArturasS80: its oxide 1.18
+1:24 PM: Andrei: im falling from the sky
+1:24 PM: Andrei: how are you doing ?
+1:24 PM: Save complete. Took: 0.00396728515625 seconds.
+1:24 PM: ArturasS80: im good. going to fix some bugs
+1:25 PM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=310628&killer-id=1708086&weapon=M4&bodypart=left calve&dist=7&dmg=35&killer=ArturasS80&killed=Andrei
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+1:25 PM: Andrei: :
+1:25 PM: ArturasS80: yea
+1:25 PM: ArturasS80: locked
+1:25 PM: Andrei: its kinda laggi
+1:25 PM: ArturasS80: i cannot open i need to fiox this
+1:26 PM: Save complete. Took: 0.0054931640625 seconds.
+1:27 PM: ArturasS80: its better now?
+1:27 PM: ArturasS80: call friends
+1:27 PM: ArturasS80: :D
+1:27 PM: Andrei: no more frends playing rust
+1:27 PM: ArturasS80: POST ip on cracked rust servers
+1:28 PM: Andrei: yea
+1:28 PM: ArturasS80: in facebool
+1:28 PM: Save complete. Took: 0.00421142578125 seconds.
+1:29 PM: Andrei: done
+1:29 PM: Andrei: but i cant post it on their wall
+1:29 PM: Andrei: idk why
+1:30 PM: Save complete. Took: 0.004150390625 seconds.
+1:31 PM: Andrei: bro?
+1:32 PM: ArturasS80: yea ye?
+1:32 PM: ArturasS80: im here
+1:32 PM: Andrei: airdrop ? :)
+1:32 PM: ArturasS80: hmm idk :s
+1:32 PM: Andrei: :)
+1:32 PM: Save complete. Took: 0.00531005859375 seconds.
+1:33 PM: Andrei: :o3
+1:33 PM: Andrei: cmon :)
+1:33 PM: Andrei: ty brah
+1:33 PM: Andrei: :Dd
+1:33 PM: Andrei: 1 ? =))
+1:34 PM: Andrei: get this bitch down
+1:34 PM: Andrei: lol
+1:34 PM: Andrei: =)))
+1:34 PM: Andrei: =))
+1:34 PM: Save complete. Took: 0.00543212890625 seconds.
+1:35 PM: Andrei: yaa
+1:35 PM: ArturasS80: wtf
+1:35 PM: Andrei: lel
+1:35 PM: ArturasS80: i needf fix this btw
+1:35 PM: Andrei: what ?
+1:35 PM: ArturasS80: 250 ammo
+1:35 PM: Andrei: 250 is good
+1:35 PM: Andrei: ty
+1:36 PM: Andrei: where are the fu.cking chests
+1:36 PM: Save complete. Took: 0.0057373046875 seconds.
+1:37 PM: Andrei: brah
+1:37 PM: Andrei: do u even have chests ? :))
+1:37 PM: ArturasS80: no ;D
+1:37 PM: Andrei: omg
+1:37 PM: Andrei: =)))))
+1:38 PM: Andrei: do u have some wood ?
+1:38 PM: Save complete. Took: 0.0982666015625 seconds.
+1:39 PM: Andrei: does the wood exists in this world ? :)))
+1:39 PM: ArturasS80: :lD ofc
+1:40 PM: Andrei: im looking for wood from 2 mins and i found nothin
+1:40 PM: ArturasS80: maybe i need delete plugins
+1:40 PM: ArturasS80: idk what to do
+1:40 PM: ArturasS80: and make my own
+1:40 PM: Andrei: day pls
+1:40 PM: Save complete. Took: 0.012939453125 seconds.
+1:41 PM: Andrei: i died
+1:41 PM: Andrei: tp me to u
+1:41 PM: Andrei: and give me a gun
+1:41 PM: Andrei: i`ll give it back to u
+1:41 PM: Andrei: bro we`ll lose the airdrop suplly
+1:42 PM: ArturasS80: check inv
+1:42 PM: Andrei: ammo
+1:42 PM: Andrei: ammo
+1:42 PM: ArturasS80: i gave u
+1:42 PM: Save complete. Took: 0.01025390625 seconds.
+1:43 PM: Andrei: no u dont
+1:43 PM: ArturasS80: we shud find server
+1:43 PM: ArturasS80: and play topgether
+1:43 PM: Andrei: are full of hackers
+1:43 PM: ArturasS80: no one joining
+1:43 PM: Andrei: idk lets search a sv
+1:44 PM: ArturasS80: yea

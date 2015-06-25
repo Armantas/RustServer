@@ -1,0 +1,393 @@
+7:06 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+7:06 AM: Loading standard library...
+7:06 AM: Loading plugins...
+7:06 AM: Loading Admin Door V: 1.0.5...
+7:06 AM: Loading Advanced Kits 2.0
+7:06 AM: Loading Broadcast 1.16.7
+7:06 AM: Loading News 1.16.5
+7:06 AM: Loading Limited Sleepers V1.1.1...
+7:06 AM: Door Closer: initiating save timer
+7:06 AM: Advanced Kits home loaded
+7:06 AM: Advanced Kits starter loaded
+7:06 AM: Advanced Kits vip loaded
+7:06 AM: Advanced Kits admin loaded
+7:06 AM: Advanced Kits No auto kit!
+7:06 AM: 4 kits and player 2 kits loaded
+7:06 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+7:06 AM: Auto-Save v0.1.3 loaded!
+7:06 AM: Starting Broadcast 600
+7:06 AM: d-RestartKit v1.1.0: starting...
+7:06 AM: Name of kits:big, medium, small
+7:06 AM: Nbr of kits:3
+7:06 AM: d-RestartKit v1.1.0: successfully initialized!
+7:06 AM: Timed Daytime Poll Loaded.
+7:06 AM: Loading Decay Control mod...
+7:06 AM: Decay Control: Decay has been enabled.
+7:06 AM: pricesCfg not loaded: 
+7:06 AM: prices2 not loaded: 
+7:06 AM: economy2: loaded 4 entries
+7:06 AM: Economy v1.3.1 loaded!
+7:06 AM: Enhanced Ban System v1.0.1 loaded.
+7:06 AM: **********************************************************
+7:06 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+7:06 AM: Essentials: Loaded Essentials DATA file.
+7:06 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+7:06 AM: Essentials: Generated default CONFIG file.
+7:06 AM: Essentials: Generated default LOG file.
+7:06 AM: Essentials: Loaded Essentials ECONCFG file.
+7:06 AM: Essentials: Flags plugin not found.
+7:06 AM: Essentials: Essentials API bound!
+7:06 AM: Loading Global Stats...
+7:06 AM: 730 users are tracked by GobalStats!
+7:06 AM: News configuration updated
+7:06 AM: Loading Oxmin...
+7:06 AM: 712 users are tracked by Oxmin!
+7:06 AM: Reload v0.1.0 loaded!
+7:06 AM: Resource Manager v0.9.4 Loading...
+7:06 AM: Resource Manager: Settings file loaded. 
+7:06 AM: Resource Manager: cangive oxmin flag successfully added!
+7:06 AM: Resource Manager v0.9.4 Loaded.
+7:06 AM: Ripper v0.1.3 loaded!
+7:06 AM: Shutdown v0.1.7 loaded!
+7:06 AM: Loading Config File
+7:06 AM: uberArena: Set your spawnpoints before turning on!
+7:06 AM: uberArena version 0.8.2 successfully loaded!
+7:06 AM: VAC Kicker: ERROR - No steam api key found!
+7:06 AM: VAC Kicker v1.4 loaded
+7:06 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+7:06 AM: Advanced Kits Flags wrapper plugin not found!
+7:06 AM: Broadcast Flags wrapper plugin not found!
+7:06 AM: News Flags wrapper plugin not found!
+7:06 AM: Limited Sleepers V1.1.1 loaded correctly
+7:06 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+7:06 AM: Essentials: Started timers.
+7:06 AM: Essentials: 4 users loaded.
+7:06 AM: Essentials: Loading essentials took -2.2633028030396 second(s).
+7:06 AM: **********************************************************
+7:06 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+7:07 AM: Flag AdminDoor added!
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+7:07 AM: User "Armandas" connected with SteamID 'STEAM_0:1:514761'
+7:07 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+7:07 AM: Resource Manager: OnServerInitialized Loading...
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+7:07 AM: Resource Manager: OnServerInitialized Loaded.
+7:07 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+7:07 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+7:07 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+7:08 AM: Save complete. Took: 0.0045928955078125 seconds.
+7:09 AM: ArturasS80: yo yo noob
+7:10 AM: ArturasS80: prisijunk su console
+7:10 AM: Save complete. Took: 0.0043487548828125 seconds.
+7:11 AM: ArturasS80: nera garso kaip uzpisa
+7:11 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=head&dist=3&dmg=91&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+7:11 AM: Essentials: webrequest connection failed
+7:11 AM: Essentials: webrequest connection failed
+7:12 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1708086&killer-id=1029523&weapon=M4&bodypart=head&dist=13&dmg=0&killer=Armandas&killed=ArturasS80
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+7:12 AM: Save complete. Took: 0.006317138671875 seconds.
+7:12 AM: Essentials: webrequest connection failed
+7:12 AM: Essentials: webrequest connection failed
+7:13 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=hip&dist=0&dmg=37&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+7:13 AM: Essentials: webrequest connection failed
+7:13 AM: Essentials: webrequest connection failed
+7:13 AM: ArturasS80: gg bank
+7:14 AM: Save complete. Took: 0.014007568359375 seconds.
+7:15 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=Haemorrhage&bodypart=body&dist=7&dmg=355&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+7:15 AM: ERROR: oxidecore: cs.callplugins failed with no traceback: NLua.Exceptions.LuaScriptException: A .NET exception occured in user-code: -2064364032
+7:15 AM: ERROR: oxidecore: A .NET exception occured in user-code (@)
+7:15 AM: ERROR: oxidecore: nil
+7:15 AM: ERROR: oxidecore: [string "globalstats.lua"]:64: attempt to index field 'networkView' (a nil value) (@)
+7:15 AM: ERROR: oxidecore:   at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+7:15 AM: Essentials: webrequest connection failed
+7:15 AM: Essentials: webrequest connection failed
+7:16 AM: Save complete. Took: 0.00616455078125 seconds.
+7:18 AM: Save complete. Took: 0.00433349609375 seconds.
+7:20 AM: ArturasS80: kur esi noob
+7:20 AM: ArturasS80: :D
+7:20 AM: Save complete. Took: 0.0047607421875 seconds.
+7:20 AM: ArturasS80: nori pazaist zaidima hidenseek>?:D
+7:21 AM: ArturasS80: AS TAVE surasiuuuu
+7:22 AM: Save complete. Took: 0.005859375 seconds.
+7:24 AM: Save complete. Took: 0.0054931640625 seconds.
+7:26 AM: Save complete. Took: 0.0064697265625 seconds.
+7:28 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1708086&killer-id=1029523&weapon=Haemorrhage&bodypart=body&dist=1&dmg=0&killer=Armandas&killed=ArturasS80
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+7:28 AM: ERROR: oxidecore: cs.callplugins failed with no traceback: NLua.Exceptions.LuaScriptException: A .NET exception occured in user-code: 1953683968
+7:28 AM: ERROR: oxidecore: A .NET exception occured in user-code (@)
+7:28 AM: ERROR: oxidecore: nil
+7:28 AM: ERROR: oxidecore: [string "globalstats.lua"]:64: attempt to index field 'networkView' (a nil value) (@)
+7:28 AM: ERROR: oxidecore:   at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+7:28 AM: ERROR: oxidecore: cs.callplugins failed with no traceback: NLua.Exceptions.LuaScriptException: A .NET exception occured in user-code: -1914411008
+7:28 AM: ERROR: oxidecore: A .NET exception occured in user-code (@)
+7:28 AM: ERROR: oxidecore: nil
+7:28 AM: ERROR: oxidecore: [string "globalstats.lua"]:64: attempt to index field 'networkView' (a nil value) (@)
+7:28 AM: ERROR: oxidecore:   at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+7:28 AM: Essentials: webrequest connection failed
+7:28 AM: Essentials: webrequest connection failed
+7:28 AM: Armandas: :DDD
+7:28 AM: Save complete. Took: 0.0052490234375 seconds.
+7:29 AM: ArturasS80: ble kaip as god taigi isijunges lD
+7:30 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=M4&bodypart=head&dist=3&dmg=115&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+7:30 AM: Essentials: webrequest connection failed
+7:30 AM: Essentials: webrequest connection failed
+7:30 AM: ArturasS80: 1 KULKA :D buvo
+7:30 AM: Save complete. Took: 0.0076904296875 seconds.
+7:31 AM: ArturasS80: wtf
+7:31 AM: Armandas: :DD
+7:32 AM: Save complete. Took: 0.0059814453125 seconds.
+7:32 AM: ArturasS80: gausiu ausines tada pradesim kartu codint
+7:33 AM: ArturasS80: reikia isiaiskint kodel neina connect pas tawe
+7:33 AM: ArturasS80: snd parves mama
+7:33 AM: Armandas: k
+7:33 AM: Armandas: as pats dar kuriu
+7:33 AM: Armandas: FPS žaidimą
+7:33 AM: ArturasS80: ta prasme?
+7:33 AM: Armandas: Bus su networking
+7:33 AM: Armandas: First Person Shooter
+7:33 AM: ArturasS80: lololol
+7:34 AM: Armandas: Galiu atsiųsti screenshot
+7:34 AM: ArturasS80: dwj
+7:34 AM: Save complete. Took: 0.0054931640625 seconds.
+7:36 AM: Essentials: webrequest connection failed
+7:36 AM: Essentials: webrequest connection failed
+7:36 AM: Save complete. Took: 0.005615234375 seconds.
+7:37 AM: ERROR: System.UriFormatException: Invalid URI: The format of the URI could not be determined: ?killed-id=1029523&killer-id=1708086&weapon=Uber Hatchet&bodypart=body&dist=1&dmg=2608&killer=ArturasS80&killed=Armandas
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x00000] in <filename unknown>:0 
+  at Oxide.AsyncWebRequest.Worker () [0x00000] in <filename unknown>:0 
+7:37 AM: Essentials: webrequest connection failed
+7:37 AM: Essentials: webrequest connection failed
+7:38 AM: Save complete. Took: 0.0078125 seconds.
+7:39 AM: r-AntiCheat: Armandas was cleared from this plugin.
+7:40 AM: Save complete. Took: 0.006103515625 seconds.
+7:42 AM: Save complete. Took: 0.005615234375 seconds.
+7:44 AM: Save complete. Took: 0.006103515625 seconds.
+7:46 AM: Save complete. Took: 0.005859375 seconds.
+7:48 AM: User "Armandas" disconnected with SteamID 'STEAM_0:1:514761'
+7:48 AM: Save complete. Took: 0.005615234375 seconds.
+7:50 AM: Save complete. Took: 0.013671875 seconds.
+7:52 AM: Save complete. Took: 0.012451171875 seconds.
+7:54 AM: Save complete. Took: 0.0068359375 seconds.
+7:56 AM: Save complete. Took: 0.01513671875 seconds.
+7:58 AM: Save complete. Took: 0.008544921875 seconds.
+8:00 AM: Save complete. Took: 0.005126953125 seconds.
+8:02 AM: Save complete. Took: 0.008544921875 seconds.
+8:04 AM: Save complete. Took: 0.006103515625 seconds.
+8:06 AM: Save complete. Took: 0.0107421875 seconds.
+8:23 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+8:23 AM: Loading standard library...
+8:23 AM: Loading plugins...
+8:23 AM: Loading Admin Door V: 1.0.5...
+8:23 AM: Loading Advanced Kits 2.0
+8:23 AM: Loading Broadcast 1.16.7
+8:23 AM: Loading News 1.16.5
+8:23 AM: Loading Limited Sleepers V1.1.1...
+8:23 AM: Door Closer: initiating save timer
+8:23 AM: Advanced Kits starter loaded
+8:23 AM: Advanced Kits home loaded
+8:23 AM: Advanced Kits admin loaded
+8:23 AM: Advanced Kits vip loaded
+8:23 AM: Advanced Kits No auto kit!
+8:23 AM: 4 kits and player 2 kits loaded
+8:23 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+8:23 AM: Auto-Save v0.1.3 loaded!
+8:23 AM: Starting Broadcast 600
+8:23 AM: d-RestartKit v1.1.0: starting...
+8:23 AM: Name of kits:big, medium, small
+8:23 AM: Nbr of kits:3
+8:23 AM: d-RestartKit v1.1.0: successfully initialized!
+8:23 AM: Timed Daytime Poll Loaded.
+8:23 AM: Loading Decay Control mod...
+8:23 AM: Decay Control: Decay has been enabled.
+8:23 AM: pricesCfg not loaded: 
+8:23 AM: prices2 not loaded: 
+8:23 AM: economy2: loaded 5 entries
+8:23 AM: Economy v1.3.1 loaded!
+8:23 AM: Enhanced Ban System v1.0.1 loaded.
+8:23 AM: **********************************************************
+8:23 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+8:23 AM: Essentials: Loaded Essentials DATA file.
+8:23 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+8:23 AM: Essentials: Generated default CONFIG file.
+8:23 AM: Essentials: Loaded Essentials LOG file.
+8:23 AM: Essentials: Loaded Essentials ECONCFG file.
+8:23 AM: Essentials: Flags plugin not found.
+8:23 AM: Essentials: Essentials API bound!
+8:23 AM: Loading Global Stats...
+8:23 AM: 731 users are tracked by GobalStats!
+8:23 AM: News configuration updated
+8:23 AM: Loading Oxmin...
+8:23 AM: 713 users are tracked by Oxmin!
+8:23 AM: Reload v0.1.0 loaded!
+8:23 AM: Resource Manager v0.9.4 Loading...
+8:23 AM: Resource Manager: Settings file loaded. 
+8:23 AM: Resource Manager: cangive oxmin flag successfully added!
+8:23 AM: Resource Manager v0.9.4 Loaded.
+8:23 AM: Ripper v0.1.3 loaded!
+8:23 AM: Shutdown v0.1.7 loaded!
+8:23 AM: Loading Config File
+8:23 AM: uberArena: Set your spawnpoints before turning on!
+8:23 AM: uberArena version 0.8.2 successfully loaded!
+8:23 AM: VAC Kicker: ERROR - No steam api key found!
+8:23 AM: VAC Kicker v1.4 loaded
+8:23 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+8:23 AM: Advanced Kits Flags wrapper plugin not found!
+8:23 AM: Broadcast Flags wrapper plugin not found!
+8:23 AM: News Flags wrapper plugin not found!
+8:23 AM: Limited Sleepers V1.1.1 loaded correctly
+8:23 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+8:23 AM: Essentials: Started timers.
+8:23 AM: Essentials: 3 users loaded.
+8:23 AM: Essentials: Loading essentials took -4.2091569900513 second(s).
+8:23 AM: **********************************************************
+8:23 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+8:24 AM: Flag AdminDoor added!
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:24 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+8:24 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+8:24 AM: Resource Manager: OnServerInitialized Loading...
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:24 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:25 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+8:25 AM: Resource Manager: OnServerInitialized Loaded.
+8:25 AM: Save complete. Took: 0.004852294921875 seconds.
+8:26 AM: ArturasS80: sad
+8:27 AM: Save complete. Took: 0.0076751708984375 seconds.
+8:29 AM: ERROR: Essentials: Lua error handling chat command 'kill'!
+8:29 AM: ERROR: Essentials: invalid arguments to method: RustServerManagement.TeleportPlayer (@[string "Essentials.lua"]:3180: )
+8:29 AM: ERROR: Essentials: nil
+8:29 AM: Save complete. Took: 0.016326904296875 seconds.
+8:31 AM: Save complete. Took: 0.005035400390625 seconds.
+8:33 AM: Save complete. Took: 0.0047607421875 seconds.
+8:35 AM: Save complete. Took: 0.01580810546875 seconds.
+8:37 AM: Save complete. Took: 0.00408935546875 seconds.
+8:38 AM: ERROR: Essentials: Lua error handling chat command 'reload'!
+8:38 AM: ERROR: Essentials: [string "Essentials.lua"]:1456: attempt to concatenate local 'name' (a nil value)
+8:39 AM: Save complete. Took: 0.00567626953125 seconds.
+8:41 AM: Save complete. Took: 0.0115966796875 seconds.
+8:43 AM: Save complete. Took: 0.007568359375 seconds.
+8:45 AM: Save complete. Took: 0.005615234375 seconds.
+8:47 AM: Save complete. Took: 0.006591796875 seconds.
+8:49 AM: Save complete. Took: 0.007080078125 seconds.
+8:50 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+8:51 AM: Save complete. Took: 0.004150390625 seconds.
+8:53 AM: Save complete. Took: 0.003662109375 seconds.
+8:55 AM: Save complete. Took: 0.004150390625 seconds.
+8:57 AM: Save complete. Took: 0.004638671875 seconds.
+8:59 AM: Save complete. Took: 0.00390625 seconds.
+9:01 AM: Save complete. Took: 0.004638671875 seconds.
+9:03 AM: Save complete. Took: 0.004150390625 seconds.
+9:05 AM: Save complete. Took: 0.003662109375 seconds.
+9:07 AM: Save complete. Took: 0.003662109375 seconds.
+9:09 AM: Save complete. Took: 0.00537109375 seconds.
+9:11 AM: Save complete. Took: 0.00390625 seconds.
+9:13 AM: Save complete. Took: 0.003662109375 seconds.
+9:15 AM: Save complete. Took: 0.006103515625 seconds.
+9:17 AM: Save complete. Took: 0.00537109375 seconds.
+9:19 AM: Save complete. Took: 0.004150390625 seconds.
+9:21 AM: Save complete. Took: 0.00390625 seconds.
+9:23 AM: Save complete. Took: 0.005126953125 seconds.
+9:25 AM: Save complete. Took: 0.00390625 seconds.
+9:27 AM: Save complete. Took: 0.003662109375 seconds.
+9:29 AM: Save complete. Took: 0.004150390625 seconds.
+9:31 AM: Save complete. Took: 0.004150390625 seconds.
+9:33 AM: Save complete. Took: 0.0048828125 seconds.
+9:35 AM: Save complete. Took: 0.00390625 seconds.
+9:37 AM: Save complete. Took: 0.00390625 seconds.
+9:39 AM: Save complete. Took: 0.00390625 seconds.
+9:41 AM: Save complete. Took: 0.00390625 seconds.
+9:43 AM: Save complete. Took: 0.00390625 seconds.
+9:45 AM: Save complete. Took: 0.00439453125 seconds.
+9:47 AM: Save complete. Took: 0.005859375 seconds.
+9:49 AM: Save complete. Took: 0.00439453125 seconds.
+9:51 AM: Save complete. Took: 0.0048828125 seconds.
+9:53 AM: Save complete. Took: 0.0048828125 seconds.
+9:55 AM: Save complete. Took: 0.005859375 seconds.
+9:57 AM: Save complete. Took: 0.0048828125 seconds.
+9:59 AM: Save complete. Took: 0.0048828125 seconds.
+10:01 AM: Save complete. Took: 0.005859375 seconds.
+10:03 AM: Save complete. Took: 0.0048828125 seconds.
+10:05 AM: Save complete. Took: 0.00390625 seconds.
+10:07 AM: Save complete. Took: 0.005859375 seconds.
+10:09 AM: Save complete. Took: 0.0048828125 seconds.
+10:11 AM: Save complete. Took: 0.0048828125 seconds.
+10:13 AM: Save complete. Took: 0.00439453125 seconds.
+10:15 AM: Save complete. Took: 0.005859375 seconds.
+10:17 AM: Save complete. Took: 0.00439453125 seconds.
+10:19 AM: Save complete. Took: 0.00390625 seconds.
+10:21 AM: Save complete. Took: 0.017578125 seconds.
+10:23 AM: Save complete. Took: 0.0048828125 seconds.
+10:25 AM: Save complete. Took: 0.00439453125 seconds.
+10:28 AM: Save complete. Took: 0.00439453125 seconds.
+10:30 AM: Save complete. Took: 0.00390625 seconds.
+10:32 AM: Save complete. Took: 0.00390625 seconds.
+10:34 AM: Save complete. Took: 0.0048828125 seconds.
+10:36 AM: Save complete. Took: 0.0048828125 seconds.
+10:38 AM: Save complete. Took: 0.00390625 seconds.
+10:40 AM: Save complete. Took: 0.0048828125 seconds.
+10:42 AM: Save complete. Took: 0.1259765625 seconds.
+10:44 AM: Save complete. Took: 0.00390625 seconds.
+10:46 AM: Save complete. Took: 0.0029296875 seconds.
+10:48 AM: Save complete. Took: 0.0048828125 seconds.
+10:50 AM: Save complete. Took: 0.005859375 seconds.
+10:52 AM: Save complete. Took: 0.2880859375 seconds.
+10:54 AM: Save complete. Took: 0.0048828125 seconds.
+10:56 AM: Save complete. Took: 0.00390625 seconds.
+10:58 AM: Save complete. Took: 0.0048828125 seconds.
+11:00 AM: Save complete. Took: 0.0048828125 seconds.
+11:02 AM: Save complete. Took: 0.00390625 seconds.
+11:04 AM: Save complete. Took: 0.0068359375 seconds.
+11:06 AM: Save complete. Took: 0.00390625 seconds.
+11:08 AM: Save complete. Took: 0.0029296875 seconds.
+11:10 AM: Save complete. Took: 0.0048828125 seconds.
+11:12 AM: Save complete. Took: 0.00390625 seconds.

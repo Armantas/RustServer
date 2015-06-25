@@ -1,0 +1,6 @@
+{
+  "Version":"1.2.2",
+  "chatName":"Anti-Wallhack",
+  "SendDetectionsToAdmins":true,
+  "DenyWallHackKillsThenBanIfPersistant":true
+}

@@ -1,0 +1,1 @@
+{"1029523":{"Name":"Armandas","ID":"1029523","Transfered":2054,"Money":1092},"310628":{"Name":"Andrei","ID":"310628","Transfered":100,"Money":85},"1708086":{"Name":"Arturas","ID":"1708086","Transfered":5809,"Money":3093},"6781386":{"Name":"Muro","ID":"6781386","Transfered":100,"Money":100},"792554":{"Name":"bertautvydas","ID":"792554","Transfered":2057,"Money":2017}}

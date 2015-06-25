@@ -1,0 +1,11 @@
+{
+  "AllowBannedCharacters":false,
+  "Characters":"abcdefghijklmnopqrstuvwxyz1234567890 [](){}!@#$%^&*_-=+.|",
+  "Languages":"english, german, deutsch, dutch, nederlands, portuguese, pt-br",
+  "ReportToChat":true,
+  "AllowBannedNames":false,
+  "Language":"English",
+  "Names":"DerpTeamNoob;Admin;Server;Rust;Oxide;Oxmin;Facepunch",
+  "AllowDuplicateNamesCaseSensitive":false,
+  "AllowDuplicateNames":false
+}

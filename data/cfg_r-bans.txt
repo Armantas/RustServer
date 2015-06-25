@@ -1,0 +1,21 @@
+{
+  "useIPBans":true,
+  "AntiCheatReasons":{
+    "rAimbot":true,
+    "rSpeedHack":true,
+    "rFlyhack":true
+  },
+  "FirstLaunch":false,
+  "Version":"1.8.2",
+  "SteamAPIKey":"",
+  "RustDB":{
+    "CheckAllConnectingPlayersForBans":true,
+    "ActivateAutoKick":true,
+    "SendToAdminsIfBannedPlayer":false,
+    "BroadCastIfBannedPlayer":true,
+    "LogIfBannedPlayer":true,
+    "NumberOfBansNeededForAutoKick":2,
+    "SendToRustDB":true
+  },
+  "ForceKickOnBan":true
+}

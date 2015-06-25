@@ -1,0 +1,8 @@
+{
+  "refreshonrestart":true,
+  "Version":1.1,
+  "chatname":"SERVER CONSOLE",
+  "IntervalSqlSend":0.5,
+  "page":"http://darkrust.zz.vc/map/send_map.php",
+  "fullstructures":true
+}

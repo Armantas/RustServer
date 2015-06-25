@@ -1,0 +1,1824 @@
+4:00 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+4:00 AM: Loading standard library...
+4:00 AM: Loading plugins...
+4:00 AM: Loading Admin Door V: 1.0.5...
+4:00 AM: Loading Advanced Kits 2.0
+4:00 AM: automessage plugin loaded
+4:00 AM: -----------------------
+4:00 AM: Loading Broadcast 1.16.7
+4:00 AM: Loading News 1.16.5
+4:01 AM: Loading Limited Sleepers V1.1.1...
+4:01 AM: Door Closer: initiating save timer
+4:01 AM: Advanced Kits vip loaded
+4:01 AM: Advanced Kits admin loaded
+4:01 AM: Advanced Kits home loaded
+4:01 AM: Advanced Kits basic loaded
+4:01 AM: Advanced Kits pvp loaded
+4:01 AM: Advanced Kits starter loaded
+4:01 AM: Advanced Kits party loaded
+4:01 AM: Advanced Kits No auto kit!
+4:01 AM: 7 kits and player 5 kits loaded
+4:01 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+4:01 AM: Auto-Save v0.1.3 loaded!
+4:01 AM: Starting Broadcast 600
+4:01 AM: d-RestartKit v1.1.0: starting...
+4:01 AM: Name of kits:big, medium, small
+4:01 AM: Nbr of kits:3
+4:01 AM: d-RestartKit v1.1.0: successfully initialized!
+4:01 AM: Timed Daytime Poll Loaded.
+4:01 AM: Loading Decay Control mod...
+4:01 AM: Decay Control: Decay has been enabled.
+4:01 AM: pricesCfg not loaded: 
+4:01 AM: prices2 not loaded: 
+4:01 AM: economy2: loaded 1 entries
+4:01 AM: Economy v1.3.1 loaded!
+4:01 AM: Enhanced Ban System v1.0.1 loaded.
+4:01 AM: **********************************************************
+4:01 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+4:01 AM: Essentials: Loaded Essentials DATA file.
+4:01 AM: Essentials: Loaded Essentials CONFIG file
+4:01 AM: Essentials: Loaded Essentials LOG file.
+4:01 AM: Essentials: Flags plugin not found.
+4:01 AM: Essentials: Essentials API bound!
+4:01 AM: Loading Global Stats...
+4:01 AM: 726 users are tracked by GobalStats!
+4:01 AM: News configuration updated
+4:01 AM: Loading Oxmin...
+4:01 AM: 708 users are tracked by Oxmin!
+4:01 AM: Reload v0.1.0 loaded!
+4:01 AM: Resource Manager v0.9.4 Loading...
+4:01 AM: Resource Manager: Settings file loaded. 
+4:01 AM: Resource Manager: cangive oxmin flag successfully added!
+4:01 AM: Resource Manager v0.9.4 Loaded.
+4:01 AM: Ripper v0.1.3 loaded!
+4:01 AM: Shutdown v0.1.7 loaded!
+4:01 AM: Loading Config File
+4:01 AM: uberArena: Set your spawnpoints before turning on!
+4:01 AM: uberArena version 0.8.2 successfully loaded!
+4:01 AM: VAC Kicker: ERROR - No steam api key found!
+4:01 AM: VAC Kicker v1.4 loaded
+4:01 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+4:01 AM: Advanced Kits Flags wrapper plugin not found!
+4:01 AM: Broadcast Flags wrapper plugin not found!
+4:01 AM: News Flags wrapper plugin not found!
+4:01 AM: Limited Sleepers V1.1.1 loaded correctly
+4:01 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+4:01 AM: Essentials: Started timers.
+4:01 AM: Essentials: 1 users loaded.
+4:01 AM: Essentials: Loading essentials took -7.569043636322 second(s).
+4:01 AM: **********************************************************
+4:01 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+4:01 AM: Flag AdminDoor added!
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: You did not configure your steam api: http://steamcommunity.com/dev/apikey
+4:02 AM: Resource Manager: OnServerInitialized Loading...
+4:02 AM: Resource Manager: OnServerInitialized Loaded.
+4:03 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+4:03 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:03 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 0
+4:05 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:07 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:09 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:11 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:13 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:15 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:17 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:19 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:21 AM: ERROR: Error in timer (Essentials)
+: NLua.Exceptions.LuaScriptException: [string "Essentials.lua"]:156: attempt to index field 'ConfigData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:22 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+4:30 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+4:30 AM: Loading standard library...
+4:30 AM: Loading plugins...
+4:30 AM: Loading Admin Door V: 1.0.5...
+4:30 AM: Loading Advanced Kits 2.0
+4:30 AM: automessage plugin loaded
+4:30 AM: -----------------------
+4:30 AM: Loading Broadcast 1.16.7
+4:30 AM: Loading News 1.16.5
+4:30 AM: Loading Limited Sleepers V1.1.1...
+4:30 AM: Door Closer: initiating save timer
+4:30 AM: Advanced Kits admin loaded
+4:30 AM: Advanced Kits home loaded
+4:30 AM: Advanced Kits starter loaded
+4:30 AM: Advanced Kits vip loaded
+4:30 AM: Advanced Kits No auto kit!
+4:30 AM: 4 kits and player 1 kits loaded
+4:30 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+4:30 AM: Auto-Save v0.1.3 loaded!
+4:30 AM: Starting Broadcast 600
+4:30 AM: d-RestartKit v1.1.0: starting...
+4:30 AM: Name of kits:big, medium, small
+4:30 AM: Nbr of kits:3
+4:30 AM: d-RestartKit v1.1.0: successfully initialized!
+4:30 AM: Timed Daytime Poll Loaded.
+4:30 AM: Loading Decay Control mod...
+4:30 AM: Decay Control: Decay has been enabled.
+4:30 AM: pricesCfg not loaded: 
+4:30 AM: prices2 not loaded: 
+4:30 AM: economy2: loaded 1 entries
+4:30 AM: Economy v1.3.1 loaded!
+4:30 AM: Enhanced Ban System v1.0.1 loaded.
+4:30 AM: **********************************************************
+4:30 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+4:30 AM: Essentials: Loaded Essentials DATA file.
+4:30 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+4:30 AM: Essentials: Generated default CONFIG file.
+4:30 AM: Essentials: Loaded Essentials LOG file.
+4:30 AM: Essentials: Generated Essentials ECONCFG file
+4:30 AM: Essentials: Flags plugin not found.
+4:30 AM: Essentials: Essentials API bound!
+4:30 AM: Loading Global Stats...
+4:30 AM: 727 users are tracked by GobalStats!
+4:30 AM: News configuration updated
+4:30 AM: Loading Oxmin...
+4:30 AM: 709 users are tracked by Oxmin!
+4:30 AM: Reload v0.1.0 loaded!
+4:30 AM: Resource Manager v0.9.4 Loading...
+4:30 AM: Resource Manager: Settings file loaded. 
+4:30 AM: Resource Manager: cangive oxmin flag successfully added!
+4:30 AM: Resource Manager v0.9.4 Loaded.
+4:30 AM: Ripper v0.1.3 loaded!
+4:30 AM: Shutdown v0.1.7 loaded!
+4:30 AM: Loading Config File
+4:30 AM: uberArena: Set your spawnpoints before turning on!
+4:30 AM: uberArena version 0.8.2 successfully loaded!
+4:30 AM: VAC Kicker: ERROR - No steam api key found!
+4:30 AM: VAC Kicker v1.4 loaded
+4:30 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+4:30 AM: Advanced Kits Flags wrapper plugin not found!
+4:30 AM: Broadcast Flags wrapper plugin not found!
+4:30 AM: News Flags wrapper plugin not found!
+4:30 AM: Limited Sleepers V1.1.1 loaded correctly
+4:30 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+4:31 AM: Essentials: Started timers.
+4:31 AM: Essentials: 1 users loaded.
+4:31 AM: Essentials: Loading essentials took -5.4815731048584 second(s).
+4:31 AM: **********************************************************
+4:31 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: Flag AdminDoor added!
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:31 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:32 AM: ERROR: Error in timer (automessage)
+: NLua.Exceptions.LuaScriptException: [string "automessage.lua"]:94: attempt to index field 'aData' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+4:33 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+4:33 AM: Loading standard library...
+4:33 AM: Loading plugins...
+4:33 AM: Loading Admin Door V: 1.0.5...
+4:33 AM: Loading Advanced Kits 2.0
+4:33 AM: Loading Broadcast 1.16.7
+4:33 AM: Loading News 1.16.5
+4:33 AM: Loading Limited Sleepers V1.1.1...
+4:33 AM: Door Closer: initiating save timer
+4:33 AM: Advanced Kits home loaded
+4:33 AM: Advanced Kits vip loaded
+4:33 AM: Advanced Kits admin loaded
+4:33 AM: Advanced Kits starter loaded
+4:33 AM: Advanced Kits No auto kit!
+4:33 AM: 4 kits and player 1 kits loaded
+4:33 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+4:33 AM: Auto-Save v0.1.3 loaded!
+4:33 AM: Starting Broadcast 600
+4:33 AM: d-RestartKit v1.1.0: starting...
+4:33 AM: Name of kits:big, medium, small
+4:33 AM: Nbr of kits:3
+4:33 AM: d-RestartKit v1.1.0: successfully initialized!
+4:33 AM: Timed Daytime Poll Loaded.
+4:33 AM: Loading Decay Control mod...
+4:33 AM: Decay Control: Decay has been enabled.
+4:33 AM: pricesCfg not loaded: 
+4:33 AM: prices2 not loaded: 
+4:33 AM: economy2: loaded 1 entries
+4:33 AM: Economy v1.3.1 loaded!
+4:33 AM: Enhanced Ban System v1.0.1 loaded.
+4:33 AM: **********************************************************
+4:33 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+4:33 AM: Essentials: Loaded Essentials DATA file.
+4:33 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+4:33 AM: Essentials: Generated default CONFIG file.
+4:33 AM: Essentials: Loaded Essentials LOG file.
+4:33 AM: Essentials: Loaded Essentials ECONCFG file.
+4:33 AM: Essentials: Flags plugin not found.
+4:33 AM: Essentials: Essentials API bound!
+4:33 AM: Loading Global Stats...
+4:33 AM: 727 users are tracked by GobalStats!
+4:33 AM: News configuration updated
+4:33 AM: Loading Oxmin...
+4:33 AM: 709 users are tracked by Oxmin!
+4:33 AM: Reload v0.1.0 loaded!
+4:33 AM: Ripper v0.1.3 loaded!
+4:33 AM: Shutdown v0.1.7 loaded!
+4:33 AM: Loading Config File
+4:33 AM: uberArena: Set your spawnpoints before turning on!
+4:33 AM: uberArena version 0.8.2 successfully loaded!
+4:33 AM: VAC Kicker: ERROR - No steam api key found!
+4:33 AM: VAC Kicker v1.4 loaded
+4:33 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+4:33 AM: Advanced Kits Flags wrapper plugin not found!
+4:33 AM: Broadcast Flags wrapper plugin not found!
+4:33 AM: News Flags wrapper plugin not found!
+4:33 AM: Limited Sleepers V1.1.1 loaded correctly
+4:33 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+4:34 AM: Essentials: Started timers.
+4:34 AM: Essentials: 1 users loaded.
+4:34 AM: Essentials: Loading essentials took -10.242213487625 second(s).
+4:34 AM: **********************************************************
+4:34 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+4:34 AM: Flag AdminDoor added!
+4:34 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+4:34 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+4:36 AM: Save complete. Took: 0.0049285888671875 seconds.
+4:38 AM: Save complete. Took: 0.003021240234375 seconds.
+4:40 AM: Save complete. Took: 0.0040283203125 seconds.
+4:42 AM: Save complete. Took: 0.004364013671875 seconds.
+4:44 AM: Save complete. Took: 0.0064697265625 seconds.
+4:46 AM: Save complete. Took: 0.00384521484375 seconds.
+4:47 AM: r-AntiCheat: ArturasS80 was cleared from this plugin.
+4:48 AM: Save complete. Took: 0.00543212890625 seconds.
+4:50 AM: Save complete. Took: 0.00347900390625 seconds.
+4:52 AM: Save complete. Took: 0.0037841796875 seconds.
+4:52 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+4:52 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+4:52 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+4:54 AM: Save complete. Took: 0.003662109375 seconds.
+4:56 AM: Save complete. Took: 0.004638671875 seconds.
+4:58 AM: Save complete. Took: 0.003662109375 seconds.
+4:58 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+4:58 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+4:58 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:00 AM: Save complete. Took: 0.0032958984375 seconds.
+5:02 AM: Save complete. Took: 0.007080078125 seconds.
+5:04 AM: Save complete. Took: 0.004638671875 seconds.
+5:06 AM: Save complete. Took: 0.003662109375 seconds.
+5:08 AM: Save complete. Took: 0.0037841796875 seconds.
+5:10 AM: Save complete. Took: 0.004150390625 seconds.
+5:11 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+5:12 AM: Save complete. Took: 0.0068359375 seconds.
+5:14 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+5:14 AM: Loading standard library...
+5:14 AM: Loading plugins...
+5:14 AM: Loading Admin Door V: 1.0.5...
+5:14 AM: Loading Advanced Kits 2.0
+5:14 AM: Loading Broadcast 1.16.7
+5:14 AM: Loading News 1.16.5
+5:14 AM: Loading Limited Sleepers V1.1.1...
+5:14 AM: Door Closer: initiating save timer
+5:14 AM: Advanced Kits vip loaded
+5:14 AM: Advanced Kits starter loaded
+5:14 AM: Advanced Kits admin loaded
+5:14 AM: Advanced Kits home loaded
+5:14 AM: Advanced Kits No auto kit!
+5:14 AM: 4 kits and player 2 kits loaded
+5:14 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:14 AM: Auto-Save v0.1.3 loaded!
+5:14 AM: Starting Broadcast 600
+5:14 AM: d-RestartKit v1.1.0: starting...
+5:14 AM: Name of kits:big, medium, small
+5:14 AM: Nbr of kits:3
+5:14 AM: d-RestartKit v1.1.0: successfully initialized!
+5:14 AM: Timed Daytime Poll Loaded.
+5:14 AM: Loading Decay Control mod...
+5:14 AM: Decay Control: Decay has been enabled.
+5:14 AM: pricesCfg not loaded: 
+5:14 AM: prices2 not loaded: 
+5:14 AM: economy2: loaded 1 entries
+5:14 AM: Economy v1.3.1 loaded!
+5:14 AM: Enhanced Ban System v1.0.1 loaded.
+5:14 AM: **********************************************************
+5:14 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:14 AM: Essentials: Loaded Essentials DATA file.
+5:14 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:14 AM: Essentials: Generated default CONFIG file.
+5:14 AM: Essentials: Loaded Essentials LOG file.
+5:14 AM: Essentials: Loaded Essentials ECONCFG file.
+5:14 AM: Essentials: Flags plugin not found.
+5:14 AM: Essentials: Essentials API bound!
+5:14 AM: Loading Global Stats...
+5:14 AM: 727 users are tracked by GobalStats!
+5:14 AM: News configuration updated
+5:14 AM: Loading Oxmin...
+5:14 AM: 709 users are tracked by Oxmin!
+5:14 AM: Reload v0.1.0 loaded!
+5:14 AM: Ripper v0.1.3 loaded!
+5:14 AM: Shutdown v0.1.7 loaded!
+5:14 AM: Loading Config File
+5:14 AM: uberArena: Set your spawnpoints before turning on!
+5:14 AM: uberArena version 0.8.2 successfully loaded!
+5:14 AM: VAC Kicker: ERROR - No steam api key found!
+5:14 AM: VAC Kicker v1.4 loaded
+5:14 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:14 AM: Advanced Kits Flags wrapper plugin not found!
+5:14 AM: Broadcast Flags wrapper plugin not found!
+5:14 AM: News Flags wrapper plugin not found!
+5:14 AM: Limited Sleepers V1.1.1 loaded correctly
+5:14 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:14 AM: Essentials: Started timers.
+5:14 AM: Essentials: 1 users loaded.
+5:14 AM: Essentials: Loading essentials took -10.947048187256 second(s).
+5:14 AM: **********************************************************
+5:14 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:15 AM: Flag AdminDoor added!
+5:15 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:15 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:16 AM: Save complete. Took: 0.00396728515625 seconds.
+5:18 AM: Save complete. Took: 0.0036773681640625 seconds.
+5:20 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+5:20 AM: Loading standard library...
+5:20 AM: Loading plugins...
+5:20 AM: Loading Admin Door V: 1.0.5...
+5:20 AM: Loading Advanced Kits 2.0
+5:20 AM: Loading Broadcast 1.16.7
+5:20 AM: Loading News 1.16.5
+5:20 AM: Loading Limited Sleepers V1.1.1...
+5:20 AM: Door Closer: initiating save timer
+5:20 AM: Advanced Kits admin loaded
+5:20 AM: Advanced Kits starter loaded
+5:20 AM: Advanced Kits vip loaded
+5:20 AM: Advanced Kits home loaded
+5:20 AM: Advanced Kits No auto kit!
+5:20 AM: 4 kits and player 2 kits loaded
+5:20 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:20 AM: Auto-Save v0.1.3 loaded!
+5:20 AM: Starting Broadcast 600
+5:20 AM: d-RestartKit v1.1.0: starting...
+5:20 AM: Name of kits:big, medium, small
+5:20 AM: Nbr of kits:3
+5:20 AM: d-RestartKit v1.1.0: successfully initialized!
+5:20 AM: Timed Daytime Poll Loaded.
+5:20 AM: Loading Decay Control mod...
+5:20 AM: Decay Control: Decay has been enabled.
+5:20 AM: pricesCfg not loaded: 
+5:20 AM: prices2 not loaded: 
+5:20 AM: economy2: loaded 1 entries
+5:20 AM: Economy v1.3.1 loaded!
+5:20 AM: Enhanced Ban System v1.0.1 loaded.
+5:20 AM: **********************************************************
+5:20 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:20 AM: Essentials: Loaded Essentials DATA file.
+5:20 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:20 AM: Essentials: Generated default CONFIG file.
+5:20 AM: Essentials: Loaded Essentials LOG file.
+5:20 AM: Essentials: Loaded Essentials ECONCFG file.
+5:20 AM: Essentials: Flags plugin not found.
+5:20 AM: Essentials: Essentials API bound!
+5:20 AM: Loading Global Stats...
+5:20 AM: 727 users are tracked by GobalStats!
+5:20 AM: News configuration updated
+5:20 AM: Loading Oxmin...
+5:20 AM: 709 users are tracked by Oxmin!
+5:20 AM: Reload v0.1.0 loaded!
+5:20 AM: Ripper v0.1.3 loaded!
+5:20 AM: Shutdown v0.1.7 loaded!
+5:20 AM: Loading Config File
+5:20 AM: uberArena: Set your spawnpoints before turning on!
+5:20 AM: uberArena version 0.8.2 successfully loaded!
+5:20 AM: VAC Kicker: ERROR - No steam api key found!
+5:20 AM: VAC Kicker v1.4 loaded
+5:20 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:20 AM: Advanced Kits Flags wrapper plugin not found!
+5:20 AM: Broadcast Flags wrapper plugin not found!
+5:20 AM: News Flags wrapper plugin not found!
+5:20 AM: Limited Sleepers V1.1.1 loaded correctly
+5:20 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:21 AM: Essentials: Started timers.
+5:21 AM: Essentials: 1 users loaded.
+5:21 AM: Essentials: Loading essentials took -11.893511772156 second(s).
+5:21 AM: **********************************************************
+5:21 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:21 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:21 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:21 AM: Flag AdminDoor added!
+5:23 AM: Save complete. Took: 0.00494384765625 seconds.
+5:23 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+5:23 AM: Loading standard library...
+5:23 AM: Loading plugins...
+5:23 AM: Loading Admin Door V: 1.0.5...
+5:23 AM: Loading Advanced Kits 2.0
+5:23 AM: Loading Broadcast 1.16.7
+5:23 AM: Loading News 1.16.5
+5:23 AM: Loading Limited Sleepers V1.1.1...
+5:23 AM: Door Closer: initiating save timer
+5:23 AM: Advanced Kits vip loaded
+5:23 AM: Advanced Kits admin loaded
+5:23 AM: Advanced Kits starter loaded
+5:23 AM: Advanced Kits home loaded
+5:23 AM: Advanced Kits No auto kit!
+5:23 AM: 4 kits and player 2 kits loaded
+5:23 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:23 AM: Auto-Save v0.1.3 loaded!
+5:23 AM: Starting Broadcast 600
+5:23 AM: d-RestartKit v1.1.0: starting...
+5:23 AM: Name of kits:big, medium, small
+5:23 AM: Nbr of kits:3
+5:23 AM: d-RestartKit v1.1.0: successfully initialized!
+5:23 AM: Timed Daytime Poll Loaded.
+5:23 AM: Loading Decay Control mod...
+5:23 AM: Decay Control: Decay has been enabled.
+5:23 AM: pricesCfg not loaded: 
+5:23 AM: prices2 not loaded: 
+5:23 AM: economy2: loaded 1 entries
+5:23 AM: Economy v1.3.1 loaded!
+5:23 AM: Enhanced Ban System v1.0.1 loaded.
+5:23 AM: **********************************************************
+5:23 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:23 AM: Essentials: Loaded Essentials DATA file.
+5:23 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:23 AM: Essentials: Generated default CONFIG file.
+5:23 AM: Essentials: Loaded Essentials LOG file.
+5:23 AM: Essentials: Loaded Essentials ECONCFG file.
+5:23 AM: Essentials: Flags plugin not found.
+5:23 AM: Essentials: Essentials API bound!
+5:23 AM: Loading Global Stats...
+5:23 AM: 727 users are tracked by GobalStats!
+5:23 AM: News configuration updated
+5:23 AM: Loading Oxmin...
+5:23 AM: 709 users are tracked by Oxmin!
+5:23 AM: Reload v0.1.0 loaded!
+5:23 AM: Resource Manager v0.9.4 Loading...
+5:23 AM: Resource Manager: Settings file not found. Creating new Settings file...
+5:23 AM: Resource Manager: SettingsDefaults, Settings file is outdated, updating to v0.8
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 1 to group: resourceNodes.Chicken_A(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62C10 to group: resourceNodes.Chicken_A(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 25 to group: resourceNodes.Chicken_A(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 2 to group: resourceNodes.Boar_A(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62B48 to group: resourceNodes.Boar_A(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 120 to group: resourceNodes.Boar_A(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C63318 to group: resourceNodes.WoodPile(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 10 to group: resourceNodes.WoodPile(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMin with Value: 15 to group: resourceNodes.Wolf(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 2 to group: resourceNodes.Wolf(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMax with Value: 15 to group: resourceNodes.Wolf(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 125 to group: resourceNodes.Wolf(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C63200 to group: resourceNodes.Wolf(Clone)
+5:23 AM: Resource Manager: Adding Key: attackRate with Value: 1.5 to group: resourceNodes.Wolf(Clone)
+5:23 AM: Resource Manager: Adding Key: dropLootBag with Value: false to group: resourceNodes.Wolf(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 1 to group: resourceNodes.Rabbit_A(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C63098 to group: resourceNodes.Rabbit_A(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 25 to group: resourceNodes.Rabbit_A(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 2 to group: resourceNodes.Stag_A(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C63138 to group: resourceNodes.Stag_A(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 80 to group: resourceNodes.Stag_A(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62E18 to group: resourceNodes.Ore1(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 3 to group: resourceNodes.Ore1(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMin with Value: 25 to group: resourceNodes.MutantWolf(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 2 to group: resourceNodes.MutantWolf(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMax with Value: 25 to group: resourceNodes.MutantWolf(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 80 to group: resourceNodes.MutantWolf(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62D78 to group: resourceNodes.MutantWolf(Clone)
+5:23 AM: Resource Manager: Adding Key: attackRate with Value: 1 to group: resourceNodes.MutantWolf(Clone)
+5:23 AM: Resource Manager: Adding Key: dropLootBag with Value: true to group: resourceNodes.MutantWolf(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMin with Value: 30 to group: resourceNodes.Bear(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 3 to group: resourceNodes.Bear(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMax with Value: 30 to group: resourceNodes.Bear(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 250 to group: resourceNodes.Bear(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62A08 to group: resourceNodes.Bear(Clone)
+5:23 AM: Resource Manager: Adding Key: attackRate with Value: 1.5 to group: resourceNodes.Bear(Clone)
+5:23 AM: Resource Manager: Adding Key: dropLootBag with Value: false to group: resourceNodes.Bear(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62FD0 to group: resourceNodes.Ore3(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 3 to group: resourceNodes.Ore3(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62EE0 to group: resourceNodes.Ore2(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 3 to group: resourceNodes.Ore2(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMin with Value: 30 to group: resourceNodes.MutantBear(Clone)
+5:23 AM: Resource Manager: Adding Key: gatherEfficiency with Value: 3 to group: resourceNodes.MutantBear(Clone)
+5:23 AM: Resource Manager: Adding Key: attackMax with Value: 45 to group: resourceNodes.MutantBear(Clone)
+5:23 AM: Resource Manager: Adding Key: health with Value: 200 to group: resourceNodes.MutantBear(Clone)
+5:23 AM: Resource Manager: Adding Key: resources with Value: table: 08C62CB0 to group: resourceNodes.MutantBear(Clone)
+5:23 AM: Resource Manager: Adding Key: attackRate with Value: 1.5 to group: resourceNodes.MutantBear(Clone)
+5:23 AM: Resource Manager: Adding Key: dropLootBag with Value: true to group: resourceNodes.MutantBear(Clone)
+5:23 AM: Resource Manager: Adding Key: Debug with Value: false
+5:23 AM: Resource Manager: Adding Key: VERSION with Value: 0.8
+5:23 AM: Resource Manager: Adding Key: ChatHandle with Value: Resource Manager
+5:23 AM: Resource Manager: Adding Key: Enabled with Value: true
+5:23 AM: Removing Obselete Items
+5:23 AM: Resource Manager: cangive oxmin flag successfully added!
+5:23 AM: Resource Manager v0.9.4 Loaded.
+5:23 AM: Ripper v0.1.3 loaded!
+5:23 AM: Shutdown v0.1.7 loaded!
+5:23 AM: Loading Config File
+5:23 AM: uberArena: Set your spawnpoints before turning on!
+5:23 AM: uberArena version 0.8.2 successfully loaded!
+5:23 AM: VAC Kicker: ERROR - No steam api key found!
+5:23 AM: VAC Kicker v1.4 loaded
+5:23 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:23 AM: Advanced Kits Flags wrapper plugin not found!
+5:23 AM: Broadcast Flags wrapper plugin not found!
+5:23 AM: News Flags wrapper plugin not found!
+5:23 AM: Limited Sleepers V1.1.1 loaded correctly
+5:23 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:23 AM: Essentials: Started timers.
+5:23 AM: Essentials: 1 users loaded.
+5:23 AM: Essentials: Loading essentials took -8.5037603378296 second(s).
+5:23 AM: **********************************************************
+5:23 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:24 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:24 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:24 AM: Flag AdminDoor added!
+5:24 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:24 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:24 AM: Resource Manager: OnServerInitialized Loading...
+5:24 AM: Resource Manager: OnServerInitialized Loaded.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:25 AM: Save complete. Took: 0.00360107421875 seconds.
+5:27 AM: Save complete. Took: 0.0055084228515625 seconds.
+5:29 AM: Save complete. Took: 0.005218505859375 seconds.
+5:31 AM: Save complete. Took: 0.00848388671875 seconds.
+5:33 AM: Save complete. Took: 0.00341796875 seconds.
+5:35 AM: Save complete. Took: 0.00360107421875 seconds.
+5:37 AM: Save complete. Took: 0.0042724609375 seconds.
+5:39 AM: Save complete. Took: 0.00360107421875 seconds.
+5:41 AM: Save complete. Took: 0.003173828125 seconds.
+5:43 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+5:43 AM: Loading standard library...
+5:43 AM: Loading plugins...
+5:43 AM: Loading Admin Door V: 1.0.5...
+5:43 AM: Loading Advanced Kits 2.0
+5:43 AM: Loading Broadcast 1.16.7
+5:43 AM: Loading News 1.16.5
+5:43 AM: Loading Limited Sleepers V1.1.1...
+5:43 AM: Door Closer: initiating save timer
+5:43 AM: Advanced Kits starter loaded
+5:43 AM: Advanced Kits admin loaded
+5:43 AM: Advanced Kits vip loaded
+5:43 AM: Advanced Kits home loaded
+5:43 AM: Advanced Kits No auto kit!
+5:43 AM: 4 kits and player 2 kits loaded
+5:43 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+5:43 AM: Auto-Save v0.1.3 loaded!
+5:43 AM: Starting Broadcast 600
+5:43 AM: d-RestartKit v1.1.0: starting...
+5:43 AM: Name of kits:big, medium, small
+5:43 AM: Nbr of kits:3
+5:43 AM: d-RestartKit v1.1.0: successfully initialized!
+5:43 AM: Timed Daytime Poll Loaded.
+5:43 AM: Loading Decay Control mod...
+5:43 AM: Decay Control: Decay has been enabled.
+5:43 AM: pricesCfg not loaded: 
+5:43 AM: prices2 not loaded: 
+5:43 AM: economy2: loaded 1 entries
+5:43 AM: Economy v1.3.1 loaded!
+5:43 AM: Enhanced Ban System v1.0.1 loaded.
+5:43 AM: **********************************************************
+5:43 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+5:43 AM: Essentials: Loaded Essentials DATA file.
+5:43 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+5:43 AM: Essentials: Generated default CONFIG file.
+5:43 AM: Essentials: Loaded Essentials LOG file.
+5:43 AM: Essentials: Loaded Essentials ECONCFG file.
+5:43 AM: Essentials: Flags plugin not found.
+5:43 AM: Essentials: Essentials API bound!
+5:43 AM: Loading Global Stats...
+5:43 AM: 727 users are tracked by GobalStats!
+5:43 AM: News configuration updated
+5:43 AM: Loading Oxmin...
+5:43 AM: 709 users are tracked by Oxmin!
+5:43 AM: Reload v0.1.0 loaded!
+5:43 AM: Resource Manager v0.9.4 Loading...
+5:43 AM: Resource Manager: Settings file loaded. 
+5:43 AM: Resource Manager: cangive oxmin flag successfully added!
+5:43 AM: Resource Manager v0.9.4 Loaded.
+5:43 AM: Ripper v0.1.3 loaded!
+5:43 AM: Shutdown v0.1.7 loaded!
+5:43 AM: Loading Config File
+5:43 AM: uberArena: Set your spawnpoints before turning on!
+5:43 AM: uberArena version 0.8.2 successfully loaded!
+5:43 AM: VAC Kicker: ERROR - No steam api key found!
+5:43 AM: VAC Kicker v1.4 loaded
+5:43 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+5:43 AM: Advanced Kits Flags wrapper plugin not found!
+5:43 AM: Broadcast Flags wrapper plugin not found!
+5:43 AM: News Flags wrapper plugin not found!
+5:43 AM: Limited Sleepers V1.1.1 loaded correctly
+5:43 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+5:43 AM: Essentials: Started timers.
+5:43 AM: Essentials: 1 users loaded.
+5:43 AM: Essentials: Loading essentials took -8.0331935882568 second(s).
+5:43 AM: **********************************************************
+5:43 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+5:44 AM: Flag AdminDoor added!
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:44 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+5:44 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:44 AM: Resource Manager: OnServerInitialized Loading...
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+5:44 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+5:44 AM: Resource Manager: OnServerInitialized Loaded.
+5:44 AM: User "bertautvydas" connected with SteamID 'STEAM_0:0:396277'
+5:44 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+5:45 AM: bertautvydas: a
+5:45 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+5:45 AM: ArturasS80: au
+5:45 AM: ArturasS80: pajungiau zjbs
+5:45 AM: bertautvydas: blt lagas
+5:45 AM: ArturasS80: ./fps
+5:45 AM: Save complete. Took: 0.01043701171875 seconds.
+5:46 AM: bertautvydas: ne server lagas
+5:46 AM: ArturasS80: GALI BUTI pl man skype reik isjungt
+5:46 AM: bertautvydas: ka ssakei?
+5:46 AM: bertautvydas: as skype buvau
+5:46 AM: ArturasS80: va db geriau turetu but
+5:47 AM: bertautvydas: o lediniai eina!
+5:47 AM: bertautvydas: almost no lag
+5:47 AM: ArturasS80: nu ant pc pajunges esu
+5:47 AM: bertautvydas: tau lagin pc?
+5:47 AM: ArturasS80: ./ping paziurek?
+5:47 AM: ArturasS80: nelagin :)
+5:47 AM: bertautvydas: 172
+5:47 AM: bertautvydas: norml
+5:47 AM: Save complete. Took: 0.0067138671875 seconds.
+5:48 AM: bertautvydas: admins esi?
+5:48 AM: ArturasS80: JO
+5:48 AM: bertautvydas: khackas
+5:48 AM: ArturasS80: god mode :D
+5:48 AM: bertautvydas: XD
+5:48 AM: ArturasS80: HIT
+5:49 AM: bertautvydas: uzsidek armoru
+5:49 AM: bertautvydas: nematomu
+5:49 AM: ArturasS80: UZSIDEK gun
+5:49 AM: bertautvydas: palik kuna
+5:49 AM: bertautvydas: o blt
+5:49 AM: bertautvydas: tej ka weikiam?
+5:49 AM: Save complete. Took: 0.0068359375 seconds.
+5:49 AM: ArturasS80: sugal;vosim pl
+5:49 AM: bertautvydas: asd
+5:50 AM: bertautvydas: as buvau god mode?
+5:50 AM: ArturasS80: db esi
+5:50 AM: ArturasS80: pl patikrinam
+5:50 AM: bertautvydas: kaip naudot?
+5:50 AM: bertautvydas: :d
+5:50 AM: ArturasS80: lpas :DS
+5:50 AM: ArturasS80: BANNED :D
+5:51 AM: bertautvydas: PAKVIECIAM ZMONIU I SERVA?
+5:51 AM: Save complete. Took: 0.005889892578125 seconds.
+5:51 AM: ArturasS80: DRASIAI
+5:52 AM: ArturasS80: kviesk as koduoju toliau
+5:52 AM: bertautvydas: bet nekviesk nepazystamu
+5:52 AM: bertautvydas: ok siunciu ip draugams
+5:53 AM: Save complete. Took: 0.0045166015625 seconds.
+5:54 AM: bertautvydas: 8 hp :D
+5:54 AM: ArturasS80: u ded :D
+5:54 AM: ArturasS80 might be using no recoil
+5:54 AM: bertautvydas: dfq net meds ntr
+5:55 AM: bertautvydas: ai ble koja luzo
+5:55 AM: ArturasS80: ./HOME EINA
+5:55 AM: bertautvydas: ne taip kaip exp
+5:55 AM: bertautvydas: tp mane
+5:55 AM: Save complete. Took: 0.01104736328125 seconds.
+5:55 AM: ArturasS80: hangar esi
+5:56 AM: bertautvydas: jo
+5:56 AM: ArturasS80: loot nebegausi :D
+5:56 AM: ArturasS80: NEGALIU dalint :/
+5:56 AM: bertautvydas: zn
+5:56 AM: ArturasS80: TUREJAU SERVERI NEviena kart ir cia mano klaida budavo
+5:56 AM: bertautvydas: ok dabar zaidziu
+5:56 AM: ArturasS80: ok
+5:56 AM: bertautvydas: nemusk tik
+5:56 AM: ArturasS80: resurses padidinau katik
+5:57 AM: bertautvydas: akmenys tiek pat sudo duoda
+5:57 AM: ArturasS80: akmenys jo
+5:57 AM: ArturasS80: paprasti
+5:57 AM: bertautvydas: ai
+5:57 AM: ArturasS80: wood 140 bus marods
+5:57 AM: ArturasS80: minimum 70
+5:57 AM: Save complete. Took: 0.00787353515625 seconds.
+5:57 AM: bertautvydas: jo mr nerd bun
+5:58 AM: bertautvydas: nesaudyk
+5:58 AM: ArturasS80: saudau gazele
+5:58 AM: bertautvydas: :D
+5:58 AM: ArturasS80: smagu cj po laiko busi admin
+5:58 AM: bertautvydas: jei mokesiu
+5:58 AM: bertautvydas: pazesiu wiki
+5:58 AM: ArturasS80: ismoksi
+5:59 AM: ArturasS80: ka tu ziuresi
+5:59 AM: ArturasS80: :D nk neziurek
+5:59 AM: bertautvydas: comandas
+5:59 AM: ArturasS80: tai duosiu veliau
+5:59 AM: bertautvydas: 1 hit medziui = 8 wood
+5:59 AM: bertautvydas: su akm
+5:59 AM: Save complete. Took: 0.0052490234375 seconds.
+5:59 AM: ArturasS80: mazai cia?
+5:59 AM: bertautvydas: norml
+6:00 AM: ArturasS80: tai va
+6:00 AM: bertautvydas: tik sakau
+6:00 AM: bertautvydas: tur but tik 5 zmones serve bus
+6:00 AM: ArturasS80: tai as galiu prikviest bet nepazystamu nereikia
+6:00 AM: ArturasS80: kolkas
+6:00 AM: ArturasS80: dar nesu sukodaves superi
+6:00 AM: bertautvydas: dimos turbut nezinai
+6:01 AM: bertautvydas: c4 :D
+6:01 AM: ArturasS80: :D paziurejau ar nesibugina
+6:01 AM: ArturasS80: bet pxide zjbs yra
+6:01 AM: bertautvydas: ok
+6:01 AM: ArturasS80: oxide
+6:01 AM: Save complete. Took: 0.0057373046875 seconds.
+6:01 AM: ArturasS80: 1.18 ant cheat ant wall anti wisi
+6:02 AM: ArturasS80: as to visada norejau
+6:02 AM: bertautvydas: as tai relog banna gavau is acw
+6:02 AM: ArturasS80: px :D
+6:02 AM: bertautvydas: as galiu pastata uzbarikaduot?
+6:02 AM: ArturasS80: DARYK KA NORI
+6:02 AM: ArturasS80: :D
+6:03 AM: bertautvydas: ok mano garazas
+6:03 AM: Save complete. Took: 0.0040283203125 seconds.
+6:04 AM: bertautvydas: o ir pigai yra :D
+6:04 AM: ArturasS80: kas?:D
+6:04 AM: bertautvydas: pinigai
+6:04 AM: bertautvydas: pinigi yra
+6:04 AM: ArturasS80: JO tik shop ismeciau idejau del home
+6:04 AM: ArturasS80: ./sethome
+6:04 AM: ArturasS80: ./home
+6:04 AM: ArturasS80: 1 home tera
+6:04 AM: ArturasS80: kad nesitelint per map
+6:04 AM: bertautvydas: okis
+6:04 AM: bertautvydas: yra sarasas?
+6:05 AM: ArturasS80: trukau serveri pakurt 4h :D
+6:05 AM: bertautvydas: :D
+6:05 AM: ArturasS80: BLE nzn turetu but
+6:05 AM: bertautvydas: nu bann sarasas
+6:05 AM: bertautvydas: o blt
+6:05 AM: ArturasS80: jo yra
+6:05 AM: ArturasS80: belekiek banned players
+6:05 AM: bertautvydas: sviesu
+6:05 AM: bertautvydas: rmt?
+6:05 AM: Save complete. Took: 0.0255126953125 seconds.
+6:07 AM: bertautvydas: blt loot crates nk gero nera
+6:07 AM: ArturasS80: jei rasi bugu pasakyk
+6:07 AM: bertautvydas: ok
+6:07 AM: bertautvydas: reportinsiu hackus
+6:07 AM: Save complete. Took: 0.0135498046875 seconds.
+6:08 AM: ArturasS80: tai jo jo
+6:08 AM: bertautvydas: o ir dropus rodo :D
+6:08 AM: ArturasS80: supply signal -.-
+6:08 AM: bertautvydas: tai neimt man?
+6:08 AM: ArturasS80: prachekinsiu ka meta
+6:08 AM: ArturasS80: neimk
+6:08 AM: ArturasS80: 1 isirnkt duosiu :D
+6:08 AM: bertautvydas: ok jau norejau
+6:09 AM: bertautvydas: blt kol ateisiu
+6:09 AM: ArturasS80: TUREK
+6:09 AM: ArturasS80: daviau suppply tau :D
+6:09 AM: Save complete. Took: 0.0072021484375 seconds.
+6:09 AM: bertautvydas: ai nx as galvojau kad reiks ateit ten :D
+6:10 AM: bertautvydas: einu atgal i pieva
+6:10 AM: ArturasS80: PER DAUG META -.-
+6:10 AM: ArturasS80: po 250 ammo
+6:10 AM: bertautvydas: tai vsuose taip meta
+6:10 AM: bertautvydas: pl
+6:10 AM: User "bertautvydas" disconnected with SteamID 'STEAM_0:0:396277'
+6:11 AM: User "bertautvydas" connected with SteamID 'STEAM_0:0:396277'
+6:11 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+6:11 AM: bertautvydas: uz bugino mane
+6:11 AM: bertautvydas: tuoj
+6:11 AM: Save complete. Took: 0.0048828125 seconds.
+6:12 AM: bertautvydas: as grizau
+6:13 AM: bertautvydas: sleeperiai kiek laiko?
+6:13 AM: ArturasS80: 60 sekundziu marods
+6:13 AM: bertautvydas: ok neblogai
+6:13 AM: ArturasS80: arba valanda
+6:13 AM: ArturasS80: nzn
+6:13 AM: ArturasS80: isjungsiu cj
+6:13 AM: ArturasS80: jo isjungsiu
+6:13 AM: bertautvydas: ne bet blogai jei isvis nebus
+6:13 AM: Save complete. Took: 0.0062255859375 seconds.
+6:14 AM: bertautvydas: pagalvok
+6:14 AM: ArturasS80: blogiau
+6:14 AM: ArturasS80: as pats cytindavau
+6:14 AM: ArturasS80: ir zudidavau sleepers per siena
+6:14 AM: ArturasS80: nk gero :)
+6:14 AM: bertautvydas: ne bet jei i tavo baze ieina ir atsijungia kas tada?
+6:14 AM: bertautvydas: bent 60 sek
+6:15 AM: bertautvydas: 9 m :D
+6:15 AM: Save complete. Took: 0.0299072265625 seconds.
+6:16 AM: bertautvydas: blt troli visai
+6:16 AM: bertautvydas: toli
+6:16 AM: bertautvydas: mano dropai
+6:17 AM: r-AntiCheat: bertautvydas was cleared from this plugin.
+6:17 AM: Save complete. Took: 0.0048828125 seconds.
+6:19 AM: User "Muro" connected with SteamID 'STEAM_0:0:3390693'
+6:19 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+6:19 AM: Save complete. Took: 0.01513671875 seconds.
+6:20 AM: bertautvydas: dfq kaip jis serva rado?
+6:20 AM: ArturasS80: VA ateina zaideju :D
+6:20 AM: ArturasS80: NETYC papostinau :D
+6:20 AM: bertautvydas: paskelbei?
+6:20 AM: bertautvydas: bl
+6:20 AM: ArturasS80: BSKIUKA :d
+6:20 AM: bertautvydas: reikejo LT
+6:20 AM: ERROR: Error in timer ()
+: NLua.Exceptions.LuaScriptException: [string "AntiNoFallDamage.lua"]:141: attempt to index local 'controllable' (a nil value)
+  at NLua.Lua.ThrowExceptionFromError (Int32 oldTop) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args, System.Type[] returnTypes) [0x00000] in <filename unknown>:0 
+  at NLua.Lua.CallFunction (System.Object function, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at NLua.LuaFunction.Call (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Oxide.Main+<>c__DisplayClass6.<lua_NewTimer>b__4 () [0x00000] in <filename unknown>:0 
+
+
+6:20 AM: bertautvydas: mano small rad
+6:20 AM: ArturasS80: be problemu
+6:21 AM: bertautvydas: uz blokuoju visa
+6:21 AM: bertautvydas: statyt neleidziA :D
+6:21 AM: bertautvydas: S
+6:21 AM: Save complete. Took: 0.0107421875 seconds.
+6:22 AM: ArturasS80: ieksua kaip atrakint loot bag
+6:22 AM: ArturasS80: ieskau
+6:23 AM: bertautvydas: blt ant kelio irgi neleidzia statyt
+6:23 AM: User "Muro" disconnected with SteamID 'STEAM_0:0:3390693'
+6:23 AM: Save complete. Took: 0.005859375 seconds.
+6:25 AM: Save complete. Took: 0.014404296875 seconds.
+6:27 AM: Save complete. Took: 0.0107421875 seconds.
+6:29 AM: Save complete. Took: 0.013427734375 seconds.
+6:31 AM: Save complete. Took: 0.02685546875 seconds.
+6:33 AM: Save complete. Took: 0.04541015625 seconds.
+6:35 AM: bertautvydas: ok
+6:35 AM: Save complete. Took: 0.005615234375 seconds.
+6:35 AM: bertautvydas: neweikia lovos daznai loot crate tuscia
+6:36 AM: bertautvydas: gal sleepinhg bag weiks
+6:37 AM: bertautvydas: strele atsirado isniekur XD
+6:37 AM: bertautvydas: ter inventoriaus
+6:37 AM: Save complete. Took: 0.011962890625 seconds.
+6:39 AM: Save complete. Took: 0.01123046875 seconds.
+6:41 AM: Save complete. Took: 0.007080078125 seconds.
+6:42 AM: bertautvydas: akmenys isvis suda mal su pick gavau 3 sulfur ore ir 1 stone
+6:42 AM: bertautvydas: sekantis akmuo nrml
+6:43 AM: bertautvydas: nu dave abu tik mazai
+6:43 AM: bertautvydas: jo bet stone mazai
+6:43 AM: Save complete. Took: 0.0048828125 seconds.
+6:44 AM: bertautvydas: dabar turiu 12 sulfur 16 iron ore ir 6 stone
+6:44 AM: bertautvydas: gerai bandau gal miegmaisis weiks
+6:45 AM: bertautvydas: miegmaisis weikia bet lova ne
+6:45 AM: bertautvydas: jo
+6:45 AM: Save complete. Took: 0.01025390625 seconds.
+6:45 AM: bertautvydas: neatsrirandu joje
+6:47 AM: ArturasS80: ve rmtj
+6:47 AM: Save complete. Took: 0.004638671875 seconds.
+6:48 AM: bertautvydas: nx meskos dingsta kai sauni
+6:49 AM: ArturasS80: dingsta tik kaikurios taip isiena
+6:49 AM: bertautvydas: gavau 6 cloth ir 3 animal fat
+6:49 AM: ArturasS80: jo
+6:49 AM: bertautvydas: ne
+6:49 AM: ArturasS80: taip ir turi  buti taip padariau :D
+6:49 AM: bertautvydas: gavau 3 meat
+6:49 AM: bertautvydas: 7 anim fat
+6:49 AM: Save complete. Took: 0.00439453125 seconds.
+6:49 AM: bertautvydas: 16 cloth
+6:50 AM: ArturasS80: PER DAUG KULKU SUNAIKINA lavonus
+6:50 AM: ArturasS80: man atrodo
+6:50 AM: bertautvydas: ai td gerai
+6:50 AM: ArturasS80: ne meskos bugged
+6:51 AM: bertautvydas: matei?
+6:51 AM: ArturasS80: cia visuos serveriuose taip buna
+6:51 AM: ArturasS80: uzsibugina jos
+6:51 AM: bertautvydas: jo bet kietai
+6:51 AM: bertautvydas: man
+6:51 AM: bertautvydas: sudas
+6:51 AM: Save complete. Took: 0.0048828125 seconds.
+6:53 AM: bertautvydas: tu visus gyvunus sugadinai o man reike jo fat
+6:53 AM: Save complete. Took: 0.01318359375 seconds.
+6:55 AM: bertautvydas: i ka saudai kaip beprotis?
+6:55 AM: Save complete. Took: 0.005859375 seconds.
+6:57 AM: bertautvydas: as taigi mirtingas
+6:57 AM: Save complete. Took: 0.01171875 seconds.
+6:58 AM: bertautvydas: tau kaaskokia skyle petyje
+6:58 AM: ArturasS80: surasyk man ka sutvarkyti i wordpad koki ir atsiusk skype
+6:58 AM: bertautvydas: dw
+6:59 AM: ArturasS80: kur varai?>
+6:59 AM: bertautvydas: nznz pabodo
+6:59 AM: bertautvydas: tai kad jau pasakiau bugus
+6:59 AM: ArturasS80: as tai koduoju. pasikviesk draugu :D
+6:59 AM: bertautvydas: ner ka weikt cia
+6:59 AM: ArturasS80: Bus.
+6:59 AM: bertautvydas: neatsako
+6:59 AM: ArturasS80: nu kaip nori
+6:59 AM: Save complete. Took: 0.00439453125 seconds.
+6:59 AM: bertautvydas: neprisijunge yra
+7:00 AM: bertautvydas: o kiti asilai
+7:01 AM: bertautvydas: hackas :D
+7:01 AM: Save complete. Took: 0.0068359375 seconds.
+7:03 AM: bertautvydas: man mp5 sulus dar neismokus :D
+7:03 AM: ArturasS80: :D
+7:03 AM: bertautvydas: is 300 9 mm kulku kiek turejau sunaudojau 120
+7:03 AM: Save complete. Took: 0.0048828125 seconds.
+7:04 AM: bertautvydas: dawai :)
+7:04 AM: User "bertautvydas" disconnected with SteamID 'STEAM_0:0:396277'
+7:04 AM: NoRecoil:ArturasS80(76561197961973814) left with 1/1 no recoils detections
+7:04 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+8:52 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+8:52 AM: Loading standard library...
+8:52 AM: Loading plugins...
+8:52 AM: Loading Admin Door V: 1.0.5...
+8:52 AM: Loading Advanced Kits 2.0
+8:52 AM: Loading Broadcast 1.16.7
+8:52 AM: Loading News 1.16.5
+8:53 AM: Loading Limited Sleepers V1.1.1...
+8:53 AM: Door Closer: initiating save timer
+8:53 AM: Advanced Kits home loaded
+8:53 AM: Advanced Kits vip loaded
+8:53 AM: Advanced Kits starter loaded
+8:53 AM: Advanced Kits admin loaded
+8:53 AM: Advanced Kits No auto kit!
+8:53 AM: 4 kits and player 2 kits loaded
+8:53 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+8:53 AM: Auto-Save v0.1.3 loaded!
+8:53 AM: Starting Broadcast 600
+8:53 AM: d-RestartKit v1.1.0: starting...
+8:53 AM: Name of kits:big, medium, small
+8:53 AM: Nbr of kits:3
+8:53 AM: d-RestartKit v1.1.0: successfully initialized!
+8:53 AM: Timed Daytime Poll Loaded.
+8:53 AM: Loading Decay Control mod...
+8:53 AM: Decay Control: Decay has been enabled.
+8:53 AM: pricesCfg not loaded: 
+8:53 AM: prices2 not loaded: 
+8:53 AM: economy2: loaded 3 entries
+8:53 AM: Economy v1.3.1 loaded!
+8:53 AM: Enhanced Ban System v1.0.1 loaded.
+8:53 AM: **********************************************************
+8:53 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+8:53 AM: Essentials: Loaded Essentials DATA file.
+8:53 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+8:53 AM: Essentials: Generated default CONFIG file.
+8:53 AM: Essentials: Loaded Essentials LOG file.
+8:53 AM: Essentials: Loaded Essentials ECONCFG file.
+8:53 AM: Essentials: Flags plugin not found.
+8:53 AM: Essentials: Essentials API bound!
+8:53 AM: Loading Global Stats...
+8:53 AM: 729 users are tracked by GobalStats!
+8:53 AM: News configuration updated
+8:53 AM: Loading Oxmin...
+8:53 AM: 711 users are tracked by Oxmin!
+8:53 AM: Reload v0.1.0 loaded!
+8:53 AM: Resource Manager v0.9.4 Loading...
+8:53 AM: Resource Manager: Settings file loaded. 
+8:53 AM: Resource Manager: cangive oxmin flag successfully added!
+8:53 AM: Resource Manager v0.9.4 Loaded.
+8:53 AM: Ripper v0.1.3 loaded!
+8:53 AM: Shutdown v0.1.7 loaded!
+8:53 AM: Loading Config File
+8:53 AM: uberArena: Set your spawnpoints before turning on!
+8:53 AM: uberArena version 0.8.2 successfully loaded!
+8:53 AM: VAC Kicker: ERROR - No steam api key found!
+8:53 AM: VAC Kicker v1.4 loaded
+8:53 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+8:53 AM: Advanced Kits Flags wrapper plugin not found!
+8:53 AM: Broadcast Flags wrapper plugin not found!
+8:53 AM: News Flags wrapper plugin not found!
+8:53 AM: Limited Sleepers V1.1.1 loaded correctly
+8:53 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+8:53 AM: Essentials: Started timers.
+8:53 AM: Essentials: 3 users loaded.
+8:53 AM: Essentials: Loading essentials took -1.5649633407593 second(s).
+8:53 AM: **********************************************************
+8:53 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+8:53 AM: Flag AdminDoor added!
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:53 AM: Resource Manager: OnServerInitialized Loading...
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+8:53 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+8:54 AM: Resource Manager: OnServerInitialized Loaded.
+8:54 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+8:55 AM: Save complete. Took: 0.0044708251953125 seconds.
+8:57 AM: Save complete. Took: 0.0043487548828125 seconds.
+8:59 AM: Save complete. Took: 0.00445556640625 seconds.
+9:01 AM: Save complete. Took: 0.004364013671875 seconds.
+9:03 AM: Save complete. Took: 0.0045166015625 seconds.
+9:17 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+9:17 AM: Loading standard library...
+9:17 AM: Loading plugins...
+9:17 AM: Loading Admin Door V: 1.0.5...
+9:17 AM: Loading Advanced Kits 2.0
+9:17 AM: Loading Broadcast 1.16.7
+9:17 AM: Loading News 1.16.5
+9:17 AM: Loading Limited Sleepers V1.1.1...
+9:17 AM: Door Closer: initiating save timer
+9:17 AM: Advanced Kits starter loaded
+9:17 AM: Advanced Kits vip loaded
+9:17 AM: Advanced Kits home loaded
+9:17 AM: Advanced Kits admin loaded
+9:17 AM: Advanced Kits No auto kit!
+9:17 AM: 4 kits and player 2 kits loaded
+9:17 AM: You do not have the Flags plugin installed! Check here: http://forum.rustoxide.com/resources/flags.155/
+9:17 AM: Auto-Save v0.1.3 loaded!
+9:17 AM: Starting Broadcast 600
+9:17 AM: d-RestartKit v1.1.0: starting...
+9:17 AM: Name of kits:big, medium, small
+9:17 AM: Nbr of kits:3
+9:17 AM: d-RestartKit v1.1.0: successfully initialized!
+9:17 AM: Timed Daytime Poll Loaded.
+9:17 AM: Loading Decay Control mod...
+9:17 AM: Decay Control: Decay has been enabled.
+9:17 AM: pricesCfg not loaded: 
+9:17 AM: prices2 not loaded: 
+9:17 AM: economy2: loaded 3 entries
+9:17 AM: Economy v1.3.1 loaded!
+9:17 AM: Enhanced Ban System v1.0.1 loaded.
+9:17 AM: **********************************************************
+9:17 AM: Essentials (1.3.1) plugin loaded with resource ID: 425
+9:17 AM: Essentials: Loaded Essentials DATA file.
+9:17 AM: ERROR: Essentials: Corrupt config file 'Essentials'! Check that the json is valid.
+9:17 AM: Essentials: Generated default CONFIG file.
+9:17 AM: Essentials: Loaded Essentials LOG file.
+9:17 AM: Essentials: Loaded Essentials ECONCFG file.
+9:17 AM: Essentials: Flags plugin not found.
+9:17 AM: Essentials: Essentials API bound!
+9:17 AM: Loading Global Stats...
+9:17 AM: 729 users are tracked by GobalStats!
+9:17 AM: News configuration updated
+9:17 AM: Loading Oxmin...
+9:17 AM: 711 users are tracked by Oxmin!
+9:17 AM: Reload v0.1.0 loaded!
+9:17 AM: Resource Manager v0.9.4 Loading...
+9:17 AM: Resource Manager: Settings file loaded. 
+9:17 AM: Resource Manager: cangive oxmin flag successfully added!
+9:17 AM: Resource Manager v0.9.4 Loaded.
+9:17 AM: Ripper v0.1.3 loaded!
+9:17 AM: Shutdown v0.1.7 loaded!
+9:17 AM: Loading Config File
+9:17 AM: uberArena: Set your spawnpoints before turning on!
+9:17 AM: uberArena version 0.8.2 successfully loaded!
+9:17 AM: VAC Kicker: ERROR - No steam api key found!
+9:17 AM: VAC Kicker v1.4 loaded
+9:17 AM: WelcomeKit v2.05: successfully initialized! Enjoy!
+9:17 AM: Advanced Kits Flags wrapper plugin not found!
+9:17 AM: Broadcast Flags wrapper plugin not found!
+9:17 AM: News Flags wrapper plugin not found!
+9:17 AM: Limited Sleepers V1.1.1 loaded correctly
+9:17 AM: WelcomeKit: Oxmin support activated - Admins are recognized by flag 'FLAG_CANKICK'!
+9:17 AM: Essentials: Started timers.
+9:17 AM: Essentials: 3 users loaded.
+9:17 AM: Essentials: Loading essentials took -6.37593126297 second(s).
+9:17 AM: **********************************************************
+9:17 AM: WelcomeKit: WARNING! ALL Kits are disabled! Please check your config file!
+9:17 AM: Resource Manager: getDefaultValues, Resource Node 'MutantBear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+9:17 AM: Resource Manager: getDefaultValues, Resource Node 'MutantWolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+9:17 AM: Flag AdminDoor added!
+9:18 AM: Resource Manager: OnServerInitialized Loading...
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Chicken_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Rabbit_A(Clone)' has custom values, changing 'gatherEfficiency' to '2.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Boar_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Stag_A(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'WoodPile(Clone)' has custom values, changing 'gatherEfficiency' to '11.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Ore1(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Ore2(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Wolf(Clone)' has custom values, changing 'gatherEfficiency' to '3.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Bear(Clone)' has custom values, changing 'gatherEfficiency' to '4.
+9:18 AM: Resource Manager: OnServerInitialized Loaded.
+9:18 AM: Resource Manager: getDefaultValues, Resource Node 'Ore3(Clone)' setting for 'gatherEfficiency' is unchanged, Resource will not be modified.
+9:19 AM: Save complete. Took: 0.0040283203125 seconds.
+9:21 AM: Save complete. Took: 0.0048675537109375 seconds.
+9:23 AM: Save complete. Took: 0.003662109375 seconds.
+9:25 AM: Save complete. Took: 0.003875732421875 seconds.
+9:27 AM: Save complete. Took: 0.00433349609375 seconds.
+9:29 AM: Save complete. Took: 0.00408935546875 seconds.
+9:29 AM: Loading at C:\Users\Arturas\Desktop\DarkRust Oxide 1.18 - DokiTV\DarkRust - Server files\save\oxide...
+9:29 AM: Loading standard library...
+9:29 AM: Loading plugins...
+9:29 AM: Loading Admin Door V: 1.0.5...
+9:29 AM: Loading Advanced Kits 2.0
+9:29 AM: Loading Broadcast 1.16.7
+9:29 AM: Loading News 1.16.5
+9:30 AM: User "ArturasS80" connected with SteamID 'STEAM_0:0:854043'
+9:30 AM: VAC Kicker: ERROR - Webrequest failed. Errorcode: 403
+9:31 AM: Save complete. Took: 0.0048828125 seconds.
+9:33 AM: Save complete. Took: 0.00531005859375 seconds.
+9:35 AM: Save complete. Took: 0.00537109375 seconds.
+9:37 AM: Save complete. Took: 0.0059814453125 seconds.
+9:39 AM: Save complete. Took: 0.005859375 seconds.
+9:41 AM: Save complete. Took: 0.0062255859375 seconds.
+9:43 AM: Save complete. Took: 0.005126953125 seconds.
+9:45 AM: Save complete. Took: 0.0045166015625 seconds.
+9:47 AM: Save complete. Took: 0.0059814453125 seconds.
+9:49 AM: User "ArturasS80" disconnected with SteamID 'STEAM_0:0:854043'
+9:49 AM: Save complete. Took: 0.009765625 seconds.

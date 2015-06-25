@@ -1,0 +1,5 @@
+{
+  "apikey":"",
+  "threshold":0,
+  "logToConsole":"true"
+}

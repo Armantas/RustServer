@@ -1,0 +1,82 @@
+{
+  "command":"kit",
+  "kits":{
+    "home":{
+		"donor":true,
+		"admin":true,
+      "items":["Bed",{
+          "item":"Wood Wall",
+          "amount":3
+        },"Wood Doorway","Metal Door","Wood Foundation","Wood Storage Box","Camp Fire","Furnace","Wood Ceiling",{
+          "item":"Wood Pillar",
+          "amount":4
+        }],
+      "cooldown":99999999999,
+      "max":1
+    },
+    "starter":{
+      "cooldown":0,
+      "description":"Basic things you need!",
+      "max":50000000000,
+      "items":["Stone Hatchet",{
+          "item":"Cooked Chicken Breast",
+          "amount":5
+        }]
+    },
+	"vip":{
+		"donor":true,
+		"admin":true,
+      "cooldown":10,
+      "description":"VIP Kit",
+      "max":100,
+      "items":["M4","Kevlar Helmet","Kevlar Pants","Kevlar Boots","Kevlar Vest","Holo sight","Laser Sight","Silencer","Flash Light Mod",{
+          "item":"556 Ammo",
+          "amount":250
+        }]
+    },
+	"admin":{
+		"admin":true,
+      "cooldown":0,
+      "description":"VIP Kit",
+      "max":99999999999,
+      "items":["M4","Kevlar Helmet","Kevlar Pants","Kevlar Boots","Kevlar Vest","Holo sight","Laser Sight","Silencer","Flash Light Mod",{
+          "item":"556 Ammo",
+          "amount":250
+        }]
+    },
+	"home":{
+      "items":["Bed",{
+          "item":"Wood Wall",
+          "amount":3
+        },"Wood Doorway","Metal Door","Wood Foundation","Wood Storage Box","Camp Fire","Furnace","Wood Ceiling",{
+          "item":"Wood Pillar",
+          "amount":4
+        }],
+      "cooldown":99999999999,
+      "max":1
+    },
+    "basic":{
+      "cooldown":1,
+      "description":"Your shelter",
+      "max":100,
+      "items":["Wood Shelter","Cloth Pants","Wooden Door","Camp Fire",{
+          "item":"Cooked Chicken Breast",
+          "amount":5
+        }]
+    }
+  },
+  "chatname":"kit ",
+  "columns":0,
+  "messages":{
+    "nokit":"You must have been exhausted all your kits! Please wait for cooldown.",
+    "exceeded":"Already redeemed %kit% maximum %amount% times!",
+    "given":"Kit %kit% given to %user%!",
+    "nokitdefined":"No kit available!",
+    "githelp":"Get your kits! Type /kit to get started",
+    "received":"Buff! %user% gave you a %kit%!",
+    "redeem":"Kit %kit% redeemed!",
+    "broadcast":"Get your kits! Type /kit to get started",
+    "nogiveyourself":"You cannot give %kit% yourself!",
+    "cooldown":"You have to wait %min% minutes and %sec%s seconds for %kit% to be available!"
+  }
+}

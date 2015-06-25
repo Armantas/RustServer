@@ -1,0 +1,24 @@
+{
+  "max":20,
+  "commands":{
+    "clean":"clean",
+    "remove":"-",
+    "add":"+",
+    "list":"?"
+  },
+  "loginnews":1,
+  "messages":{
+    "tsformat":"MM/dd/yyyy",
+    "title":"Latest News:",
+    "footer":"Total %total% news.",
+    "nonews":"No news!",
+    "broadcast":"Have you read our news? Check /news",
+    "help":"Type /news to see our news"
+  },
+  "command":"news",
+  "chatname":"news",
+  "flags":{
+    "add":["adminhelper"],
+    "remove":["adminhelper"]
+  }
+}

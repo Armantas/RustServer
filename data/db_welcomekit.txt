@@ -1,0 +1,1 @@
+{"1029523":{"respawn":1,"suicide":0},"310628":{"respawn":0,"suicide":0},"1708086":{"respawn":0,"suicide":0},"6781386":{"respawn":0,"suicide":0},"792554":{"respawn":0,"suicide":0}}
